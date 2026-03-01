@@ -1,0 +1,11 @@
+{
+  "version": "v1.1-beta",
+  "grain": "day",
+  "rows": [
+    {"date": "2026-02-20", "leads": 122, "sits": 31, "sold": 9, "bookedRevenue": 118500},
+    {"date": "2026-02-21", "leads": 97, "sits": 28, "sold": 7, "bookedRevenue": 93200},
+    {"date": "2026-02-22", "leads": 104, "sits": 30, "sold": 8, "bookedRevenue": 101400},
+    {"date": "2026-02-23", "leads": 136, "sits": 35, "sold": 11, "bookedRevenue": 142800},
+    {"date": "2026-02-24", "leads": 128, "sits": 33, "sold": 10, "bookedRevenue": 129600}
+  ]
+}
