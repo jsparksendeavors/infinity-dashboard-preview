@@ -1,0 +1,9597 @@
+{
+  "version": "v1.1-beta-real",
+  "grain": "day",
+  "source": "infinity_raw_closing_date.csv",
+  "rows": [
+    {
+      "date": "2009-10-05",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2010-08-18",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2010-10-26",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2011-03-15",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2011-03-28",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2011-07-04",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2011-08-02",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2011-11-10",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2014-01-14",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2014-03-25",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2014-05-09",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2014-05-30",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2014-06-24",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2014-07-24",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2015-02-16",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2015-05-18",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2016-03-28",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2016-04-01",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2016-05-27",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2016-09-01",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2016-09-12",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2017-03-09",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2017-03-22",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2017-05-26",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2017-07-12",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2017-07-27",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2017-09-14",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2018-06-08",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2018-06-12",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2018-06-25",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2018-06-26",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2018-08-06",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2018-08-07",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2018-09-21",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2019-02-27",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2019-04-12",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2019-04-30",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2019-06-10",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2019-06-24",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2019-07-10",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2019-07-18",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2019-07-31",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2019-08-06",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2019-08-07",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2019-09-17",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2019-09-23",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2019-10-14",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2020-01-13",
+      "leads": 3,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2020-01-20",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2020-02-28",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2020-03-20",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2020-04-23",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2020-04-28",
+      "leads": 2,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2020-05-18",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2020-06-03",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2020-06-10",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2020-06-14",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2020-06-15",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2020-06-17",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2020-06-24",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2020-06-25",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2020-06-29",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2020-07-14",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2020-07-15",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2020-07-24",
+      "leads": 2,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2020-07-27",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2020-08-10",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2020-08-12",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2020-08-13",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2020-08-24",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2020-08-25",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2020-08-26",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2020-09-03",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2020-09-21",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2020-09-25",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2020-10-09",
+      "leads": 1,
+      "sits": 2,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2020-10-12",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2020-11-16",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2020-11-21",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2020-12-10",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2020-12-17",
+      "leads": 1,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2021-01-26",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2021-01-31",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2021-02-05",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2021-02-15",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2021-03-15",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2021-03-16",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2021-03-17",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2021-03-25",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2021-03-26",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2021-03-29",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2021-04-03",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2021-04-05",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2021-04-15",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2021-04-19",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2021-04-20",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2021-04-21",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2021-04-26",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2021-04-28",
+      "leads": 2,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2021-04-29",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2021-05-09",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2021-05-12",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2021-05-14",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2021-05-19",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2021-05-22",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2021-05-27",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2021-05-30",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2021-06-10",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2021-06-30",
+      "leads": 1,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2021-07-06",
+      "leads": 2,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2021-07-15",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2021-07-16",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2021-07-20",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2021-07-21",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2021-07-22",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2021-08-18",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2021-09-07",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2021-09-21",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2021-09-27",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2021-09-30",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2021-10-05",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2021-10-15",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2021-10-20",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2021-12-13",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2021-12-15",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-01-13",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-01-17",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-01-31",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-02-14",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-02-15",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-02-17",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-03-01",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-03-02",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-03-09",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-03-10",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-03-18",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-03-19",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-03-21",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-03-22",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-03-23",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-03-24",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-04-10",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-04-13",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-04-14",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-04-21",
+      "leads": 0,
+      "sits": 2,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-04-25",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-04-26",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-05-02",
+      "leads": 1,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-05-03",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-05-04",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-05-07",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-05-16",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-05-17",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-05-18",
+      "leads": 2,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-05-19",
+      "leads": 0,
+      "sits": 2,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-05-23",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-05-25",
+      "leads": 2,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-05-27",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-06-01",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-06-02",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-06-03",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-06-06",
+      "leads": 1,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-06-08",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-06-09",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-06-13",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-06-14",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-06-17",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-06-18",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-06-21",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-06-23",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-06-24",
+      "leads": 1,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-06-27",
+      "leads": 2,
+      "sits": 2,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-06-28",
+      "leads": 0,
+      "sits": 2,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-07-05",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-07-06",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-07-08",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-07-11",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-07-12",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-07-13",
+      "leads": 2,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-07-14",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-07-15",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-07-18",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-07-19",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-07-21",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-07-25",
+      "leads": 4,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-07-27",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-07-28",
+      "leads": 0,
+      "sits": 2,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-07-29",
+      "leads": 1,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-08-01",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-08-02",
+      "leads": 2,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-08-03",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-08-04",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-08-05",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-08-08",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-08-09",
+      "leads": 2,
+      "sits": 4,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-08-10",
+      "leads": 0,
+      "sits": 2,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-08-11",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-08-13",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-08-15",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-08-16",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-08-17",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-08-18",
+      "leads": 1,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-08-23",
+      "leads": 1,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-08-24",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-08-25",
+      "leads": 3,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-08-26",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-08-29",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-08-30",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-08-31",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-09-07",
+      "leads": 2,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-09-08",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-09-09",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-09-10",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-09-12",
+      "leads": 4,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-09-13",
+      "leads": 2,
+      "sits": 2,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-09-14",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-09-15",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-09-16",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-09-19",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-09-20",
+      "leads": 6,
+      "sits": 2,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-09-21",
+      "leads": 1,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-09-24",
+      "leads": 1,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-09-26",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-09-27",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-09-28",
+      "leads": 3,
+      "sits": 3,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-09-29",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-10-03",
+      "leads": 2,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-10-04",
+      "leads": 3,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-10-05",
+      "leads": 1,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-10-06",
+      "leads": 3,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-10-07",
+      "leads": 3,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-10-10",
+      "leads": 4,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-10-11",
+      "leads": 1,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-10-12",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-10-13",
+      "leads": 2,
+      "sits": 3,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-10-14",
+      "leads": 0,
+      "sits": 3,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-10-17",
+      "leads": 2,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-10-18",
+      "leads": 2,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-10-19",
+      "leads": 1,
+      "sits": 2,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-10-20",
+      "leads": 3,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-10-24",
+      "leads": 1,
+      "sits": 2,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-10-25",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-10-26",
+      "leads": 4,
+      "sits": 2,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-10-27",
+      "leads": 0,
+      "sits": 2,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-10-28",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-10-31",
+      "leads": 2,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-11-02",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-11-03",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-11-04",
+      "leads": 3,
+      "sits": 2,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-11-06",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-11-07",
+      "leads": 4,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-11-08",
+      "leads": 4,
+      "sits": 3,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-11-09",
+      "leads": 2,
+      "sits": 3,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-11-10",
+      "leads": 2,
+      "sits": 2,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-11-11",
+      "leads": 3,
+      "sits": 2,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-11-13",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-11-14",
+      "leads": 3,
+      "sits": 2,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-11-16",
+      "leads": 1,
+      "sits": 3,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-11-17",
+      "leads": 0,
+      "sits": 2,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-11-21",
+      "leads": 1,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-11-22",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-11-23",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-11-25",
+      "leads": 1,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-11-27",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-11-28",
+      "leads": 2,
+      "sits": 3,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-11-29",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-12-01",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-12-02",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-12-04",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-12-05",
+      "leads": 4,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-12-06",
+      "leads": 2,
+      "sits": 3,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-12-07",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-12-09",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-12-12",
+      "leads": 1,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-12-13",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-12-14",
+      "leads": 1,
+      "sits": 3,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-12-15",
+      "leads": 4,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-12-16",
+      "leads": 1,
+      "sits": 2,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-12-19",
+      "leads": 1,
+      "sits": 3,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-12-20",
+      "leads": 1,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-12-21",
+      "leads": 2,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-12-23",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-12-24",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-12-27",
+      "leads": 5,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-12-28",
+      "leads": 4,
+      "sits": 2,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-12-29",
+      "leads": 9,
+      "sits": 2,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-12-30",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2022-12-31",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-01-01",
+      "leads": 0,
+      "sits": 0,
+      "sold": 1,
+      "bookedRevenue": 18928.0
+    },
+    {
+      "date": "2023-01-02",
+      "leads": 1,
+      "sits": 0,
+      "sold": 3,
+      "bookedRevenue": 42416.0
+    },
+    {
+      "date": "2023-01-03",
+      "leads": 14,
+      "sits": 10,
+      "sold": 10,
+      "bookedRevenue": 162763.22
+    },
+    {
+      "date": "2023-01-04",
+      "leads": 11,
+      "sits": 8,
+      "sold": 10,
+      "bookedRevenue": 206735.61
+    },
+    {
+      "date": "2023-01-05",
+      "leads": 7,
+      "sits": 9,
+      "sold": 7,
+      "bookedRevenue": 119032.0
+    },
+    {
+      "date": "2023-01-06",
+      "leads": 6,
+      "sits": 8,
+      "sold": 11,
+      "bookedRevenue": 150842.0
+    },
+    {
+      "date": "2023-01-07",
+      "leads": 8,
+      "sits": 2,
+      "sold": 3,
+      "bookedRevenue": 38496.95
+    },
+    {
+      "date": "2023-01-08",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-01-09",
+      "leads": 48,
+      "sits": 14,
+      "sold": 11,
+      "bookedRevenue": 190905.3
+    },
+    {
+      "date": "2023-01-10",
+      "leads": 14,
+      "sits": 14,
+      "sold": 20,
+      "bookedRevenue": 307885.78
+    },
+    {
+      "date": "2023-01-11",
+      "leads": 9,
+      "sits": 13,
+      "sold": 11,
+      "bookedRevenue": 102190.74
+    },
+    {
+      "date": "2023-01-12",
+      "leads": 6,
+      "sits": 14,
+      "sold": 14,
+      "bookedRevenue": 126657.27
+    },
+    {
+      "date": "2023-01-13",
+      "leads": 6,
+      "sits": 11,
+      "sold": 19,
+      "bookedRevenue": 278221.57
+    },
+    {
+      "date": "2023-01-14",
+      "leads": 8,
+      "sits": 1,
+      "sold": 2,
+      "bookedRevenue": 26650.0
+    },
+    {
+      "date": "2023-01-15",
+      "leads": 1,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-01-16",
+      "leads": 22,
+      "sits": 11,
+      "sold": 10,
+      "bookedRevenue": 121162.15
+    },
+    {
+      "date": "2023-01-17",
+      "leads": 8,
+      "sits": 12,
+      "sold": 12,
+      "bookedRevenue": 166294.0
+    },
+    {
+      "date": "2023-01-18",
+      "leads": 8,
+      "sits": 5,
+      "sold": 7,
+      "bookedRevenue": 79945.33
+    },
+    {
+      "date": "2023-01-19",
+      "leads": 9,
+      "sits": 8,
+      "sold": 15,
+      "bookedRevenue": 341735.0
+    },
+    {
+      "date": "2023-01-20",
+      "leads": 8,
+      "sits": 13,
+      "sold": 11,
+      "bookedRevenue": 176558.61
+    },
+    {
+      "date": "2023-01-21",
+      "leads": 4,
+      "sits": 4,
+      "sold": 4,
+      "bookedRevenue": 43967.0
+    },
+    {
+      "date": "2023-01-23",
+      "leads": 9,
+      "sits": 10,
+      "sold": 9,
+      "bookedRevenue": 140865.0
+    },
+    {
+      "date": "2023-01-24",
+      "leads": 6,
+      "sits": 7,
+      "sold": 10,
+      "bookedRevenue": 121378.81
+    },
+    {
+      "date": "2023-01-25",
+      "leads": 7,
+      "sits": 10,
+      "sold": 12,
+      "bookedRevenue": 249207.34
+    },
+    {
+      "date": "2023-01-26",
+      "leads": 3,
+      "sits": 5,
+      "sold": 7,
+      "bookedRevenue": 151082.0
+    },
+    {
+      "date": "2023-01-27",
+      "leads": 2,
+      "sits": 9,
+      "sold": 9,
+      "bookedRevenue": 108705.17
+    },
+    {
+      "date": "2023-01-28",
+      "leads": 2,
+      "sits": 2,
+      "sold": 4,
+      "bookedRevenue": 60009.0
+    },
+    {
+      "date": "2023-01-29",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-01-30",
+      "leads": 8,
+      "sits": 9,
+      "sold": 10,
+      "bookedRevenue": 166785.0
+    },
+    {
+      "date": "2023-01-31",
+      "leads": 14,
+      "sits": 5,
+      "sold": 12,
+      "bookedRevenue": 249750.0
+    },
+    {
+      "date": "2023-02-01",
+      "leads": 12,
+      "sits": 4,
+      "sold": 6,
+      "bookedRevenue": 59544.0
+    },
+    {
+      "date": "2023-02-02",
+      "leads": 7,
+      "sits": 6,
+      "sold": 8,
+      "bookedRevenue": 115554.0
+    },
+    {
+      "date": "2023-02-03",
+      "leads": 8,
+      "sits": 8,
+      "sold": 9,
+      "bookedRevenue": 74992.35
+    },
+    {
+      "date": "2023-02-04",
+      "leads": 1,
+      "sits": 1,
+      "sold": 1,
+      "bookedRevenue": 20305.0
+    },
+    {
+      "date": "2023-02-05",
+      "leads": 4,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-02-06",
+      "leads": 27,
+      "sits": 14,
+      "sold": 18,
+      "bookedRevenue": 384545.32
+    },
+    {
+      "date": "2023-02-07",
+      "leads": 13,
+      "sits": 11,
+      "sold": 12,
+      "bookedRevenue": 137096.28
+    },
+    {
+      "date": "2023-02-08",
+      "leads": 13,
+      "sits": 1,
+      "sold": 6,
+      "bookedRevenue": 111018.0
+    },
+    {
+      "date": "2023-02-09",
+      "leads": 19,
+      "sits": 9,
+      "sold": 5,
+      "bookedRevenue": 93551.0
+    },
+    {
+      "date": "2023-02-10",
+      "leads": 12,
+      "sits": 16,
+      "sold": 19,
+      "bookedRevenue": 212511.62
+    },
+    {
+      "date": "2023-02-11",
+      "leads": 1,
+      "sits": 4,
+      "sold": 1,
+      "bookedRevenue": 17273.43
+    },
+    {
+      "date": "2023-02-12",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-02-13",
+      "leads": 15,
+      "sits": 19,
+      "sold": 18,
+      "bookedRevenue": 285440.0
+    },
+    {
+      "date": "2023-02-14",
+      "leads": 7,
+      "sits": 16,
+      "sold": 20,
+      "bookedRevenue": 298394.74
+    },
+    {
+      "date": "2023-02-15",
+      "leads": 11,
+      "sits": 9,
+      "sold": 9,
+      "bookedRevenue": 99528.0
+    },
+    {
+      "date": "2023-02-16",
+      "leads": 4,
+      "sits": 5,
+      "sold": 4,
+      "bookedRevenue": 41000.0
+    },
+    {
+      "date": "2023-02-17",
+      "leads": 10,
+      "sits": 7,
+      "sold": 10,
+      "bookedRevenue": 97088.0
+    },
+    {
+      "date": "2023-02-18",
+      "leads": 2,
+      "sits": 2,
+      "sold": 1,
+      "bookedRevenue": 13944.0
+    },
+    {
+      "date": "2023-02-19",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-02-20",
+      "leads": 59,
+      "sits": 12,
+      "sold": 15,
+      "bookedRevenue": 128015.0
+    },
+    {
+      "date": "2023-02-21",
+      "leads": 13,
+      "sits": 16,
+      "sold": 16,
+      "bookedRevenue": 237579.45
+    },
+    {
+      "date": "2023-02-22",
+      "leads": 7,
+      "sits": 7,
+      "sold": 7,
+      "bookedRevenue": 58930.88
+    },
+    {
+      "date": "2023-02-23",
+      "leads": 1,
+      "sits": 8,
+      "sold": 9,
+      "bookedRevenue": 72605.0
+    },
+    {
+      "date": "2023-02-24",
+      "leads": 14,
+      "sits": 13,
+      "sold": 13,
+      "bookedRevenue": 245397.0
+    },
+    {
+      "date": "2023-02-25",
+      "leads": 2,
+      "sits": 6,
+      "sold": 3,
+      "bookedRevenue": 60513.0
+    },
+    {
+      "date": "2023-02-26",
+      "leads": 3,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-02-27",
+      "leads": 33,
+      "sits": 16,
+      "sold": 10,
+      "bookedRevenue": 94410.28
+    },
+    {
+      "date": "2023-02-28",
+      "leads": 21,
+      "sits": 25,
+      "sold": 14,
+      "bookedRevenue": 144267.61
+    },
+    {
+      "date": "2023-03-01",
+      "leads": 27,
+      "sits": 25,
+      "sold": 21,
+      "bookedRevenue": 345592.75
+    },
+    {
+      "date": "2023-03-02",
+      "leads": 17,
+      "sits": 20,
+      "sold": 20,
+      "bookedRevenue": 297998.08
+    },
+    {
+      "date": "2023-03-03",
+      "leads": 26,
+      "sits": 27,
+      "sold": 39,
+      "bookedRevenue": 413277.41
+    },
+    {
+      "date": "2023-03-04",
+      "leads": 1,
+      "sits": 3,
+      "sold": 2,
+      "bookedRevenue": 8700.0
+    },
+    {
+      "date": "2023-03-05",
+      "leads": 6,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-03-06",
+      "leads": 44,
+      "sits": 24,
+      "sold": 25,
+      "bookedRevenue": 318767.33
+    },
+    {
+      "date": "2023-03-07",
+      "leads": 19,
+      "sits": 12,
+      "sold": 7,
+      "bookedRevenue": 92154.82
+    },
+    {
+      "date": "2023-03-08",
+      "leads": 16,
+      "sits": 10,
+      "sold": 5,
+      "bookedRevenue": 94763.83
+    },
+    {
+      "date": "2023-03-09",
+      "leads": 12,
+      "sits": 13,
+      "sold": 10,
+      "bookedRevenue": 135578.77
+    },
+    {
+      "date": "2023-03-10",
+      "leads": 8,
+      "sits": 1,
+      "sold": 2,
+      "bookedRevenue": 14500.0
+    },
+    {
+      "date": "2023-03-11",
+      "leads": 3,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-03-12",
+      "leads": 4,
+      "sits": 0,
+      "sold": 2,
+      "bookedRevenue": 8766.0
+    },
+    {
+      "date": "2023-03-13",
+      "leads": 14,
+      "sits": 20,
+      "sold": 23,
+      "bookedRevenue": 374527.02
+    },
+    {
+      "date": "2023-03-14",
+      "leads": 18,
+      "sits": 20,
+      "sold": 25,
+      "bookedRevenue": 501424.94
+    },
+    {
+      "date": "2023-03-15",
+      "leads": 12,
+      "sits": 32,
+      "sold": 32,
+      "bookedRevenue": 330753.71
+    },
+    {
+      "date": "2023-03-16",
+      "leads": 10,
+      "sits": 22,
+      "sold": 28,
+      "bookedRevenue": 374661.52
+    },
+    {
+      "date": "2023-03-17",
+      "leads": 14,
+      "sits": 25,
+      "sold": 25,
+      "bookedRevenue": 424012.13
+    },
+    {
+      "date": "2023-03-18",
+      "leads": 2,
+      "sits": 3,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-03-19",
+      "leads": 5,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-03-20",
+      "leads": 37,
+      "sits": 21,
+      "sold": 29,
+      "bookedRevenue": 460042.21
+    },
+    {
+      "date": "2023-03-21",
+      "leads": 26,
+      "sits": 26,
+      "sold": 28,
+      "bookedRevenue": 347175.74
+    },
+    {
+      "date": "2023-03-22",
+      "leads": 21,
+      "sits": 18,
+      "sold": 13,
+      "bookedRevenue": 130096.0
+    },
+    {
+      "date": "2023-03-23",
+      "leads": 19,
+      "sits": 27,
+      "sold": 30,
+      "bookedRevenue": 317272.9
+    },
+    {
+      "date": "2023-03-24",
+      "leads": 23,
+      "sits": 15,
+      "sold": 13,
+      "bookedRevenue": 215795.0
+    },
+    {
+      "date": "2023-03-25",
+      "leads": 1,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-03-26",
+      "leads": 5,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-03-27",
+      "leads": 42,
+      "sits": 21,
+      "sold": 18,
+      "bookedRevenue": 319893.18
+    },
+    {
+      "date": "2023-03-28",
+      "leads": 30,
+      "sits": 30,
+      "sold": 36,
+      "bookedRevenue": 605286.3
+    },
+    {
+      "date": "2023-03-29",
+      "leads": 22,
+      "sits": 26,
+      "sold": 26,
+      "bookedRevenue": 396586.49
+    },
+    {
+      "date": "2023-03-30",
+      "leads": 21,
+      "sits": 26,
+      "sold": 22,
+      "bookedRevenue": 228967.65
+    },
+    {
+      "date": "2023-03-31",
+      "leads": 19,
+      "sits": 16,
+      "sold": 10,
+      "bookedRevenue": 214219.03
+    },
+    {
+      "date": "2023-04-01",
+      "leads": 5,
+      "sits": 4,
+      "sold": 6,
+      "bookedRevenue": 163164.15
+    },
+    {
+      "date": "2023-04-02",
+      "leads": 3,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-04-03",
+      "leads": 33,
+      "sits": 25,
+      "sold": 26,
+      "bookedRevenue": 304209.64
+    },
+    {
+      "date": "2023-04-04",
+      "leads": 21,
+      "sits": 25,
+      "sold": 30,
+      "bookedRevenue": 444455.48
+    },
+    {
+      "date": "2023-04-05",
+      "leads": 24,
+      "sits": 29,
+      "sold": 30,
+      "bookedRevenue": 439875.26
+    },
+    {
+      "date": "2023-04-06",
+      "leads": 26,
+      "sits": 35,
+      "sold": 28,
+      "bookedRevenue": 334072.93
+    },
+    {
+      "date": "2023-04-07",
+      "leads": 26,
+      "sits": 29,
+      "sold": 25,
+      "bookedRevenue": 373610.52
+    },
+    {
+      "date": "2023-04-08",
+      "leads": 5,
+      "sits": 2,
+      "sold": 6,
+      "bookedRevenue": 138905.0
+    },
+    {
+      "date": "2023-04-09",
+      "leads": 6,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-04-10",
+      "leads": 37,
+      "sits": 32,
+      "sold": 26,
+      "bookedRevenue": 349117.18
+    },
+    {
+      "date": "2023-04-11",
+      "leads": 35,
+      "sits": 27,
+      "sold": 20,
+      "bookedRevenue": 480623.8
+    },
+    {
+      "date": "2023-04-12",
+      "leads": 31,
+      "sits": 29,
+      "sold": 29,
+      "bookedRevenue": 374099.57
+    },
+    {
+      "date": "2023-04-13",
+      "leads": 32,
+      "sits": 37,
+      "sold": 45,
+      "bookedRevenue": 554326.84
+    },
+    {
+      "date": "2023-04-14",
+      "leads": 22,
+      "sits": 29,
+      "sold": 35,
+      "bookedRevenue": 506758.88
+    },
+    {
+      "date": "2023-04-15",
+      "leads": 3,
+      "sits": 2,
+      "sold": 5,
+      "bookedRevenue": 76001.56
+    },
+    {
+      "date": "2023-04-16",
+      "leads": 10,
+      "sits": 1,
+      "sold": 1,
+      "bookedRevenue": 4321.27
+    },
+    {
+      "date": "2023-04-17",
+      "leads": 37,
+      "sits": 24,
+      "sold": 25,
+      "bookedRevenue": 336977.59
+    },
+    {
+      "date": "2023-04-18",
+      "leads": 31,
+      "sits": 33,
+      "sold": 43,
+      "bookedRevenue": 785034.33
+    },
+    {
+      "date": "2023-04-19",
+      "leads": 23,
+      "sits": 22,
+      "sold": 25,
+      "bookedRevenue": 370357.88
+    },
+    {
+      "date": "2023-04-20",
+      "leads": 31,
+      "sits": 21,
+      "sold": 20,
+      "bookedRevenue": 236644.53
+    },
+    {
+      "date": "2023-04-21",
+      "leads": 27,
+      "sits": 26,
+      "sold": 26,
+      "bookedRevenue": 411637.72
+    },
+    {
+      "date": "2023-04-22",
+      "leads": 6,
+      "sits": 5,
+      "sold": 8,
+      "bookedRevenue": 163592.0
+    },
+    {
+      "date": "2023-04-23",
+      "leads": 9,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-04-24",
+      "leads": 47,
+      "sits": 39,
+      "sold": 28,
+      "bookedRevenue": 332720.67
+    },
+    {
+      "date": "2023-04-25",
+      "leads": 38,
+      "sits": 36,
+      "sold": 40,
+      "bookedRevenue": 1607449.04
+    },
+    {
+      "date": "2023-04-26",
+      "leads": 27,
+      "sits": 31,
+      "sold": 27,
+      "bookedRevenue": 465880.62
+    },
+    {
+      "date": "2023-04-27",
+      "leads": 37,
+      "sits": 40,
+      "sold": 39,
+      "bookedRevenue": 529283.28
+    },
+    {
+      "date": "2023-04-28",
+      "leads": 25,
+      "sits": 22,
+      "sold": 23,
+      "bookedRevenue": 351101.0
+    },
+    {
+      "date": "2023-04-29",
+      "leads": 6,
+      "sits": 5,
+      "sold": 8,
+      "bookedRevenue": 119573.95
+    },
+    {
+      "date": "2023-04-30",
+      "leads": 8,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-05-01",
+      "leads": 25,
+      "sits": 28,
+      "sold": 25,
+      "bookedRevenue": 384007.65
+    },
+    {
+      "date": "2023-05-02",
+      "leads": 24,
+      "sits": 39,
+      "sold": 36,
+      "bookedRevenue": 430715.76
+    },
+    {
+      "date": "2023-05-03",
+      "leads": 24,
+      "sits": 31,
+      "sold": 35,
+      "bookedRevenue": 531933.67
+    },
+    {
+      "date": "2023-05-04",
+      "leads": 19,
+      "sits": 21,
+      "sold": 25,
+      "bookedRevenue": 367061.92
+    },
+    {
+      "date": "2023-05-05",
+      "leads": 21,
+      "sits": 38,
+      "sold": 29,
+      "bookedRevenue": 314846.85
+    },
+    {
+      "date": "2023-05-06",
+      "leads": 17,
+      "sits": 4,
+      "sold": 3,
+      "bookedRevenue": 61804.92
+    },
+    {
+      "date": "2023-05-07",
+      "leads": 3,
+      "sits": 10,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-05-08",
+      "leads": 39,
+      "sits": 27,
+      "sold": 28,
+      "bookedRevenue": 404124.71
+    },
+    {
+      "date": "2023-05-09",
+      "leads": 28,
+      "sits": 22,
+      "sold": 19,
+      "bookedRevenue": 277185.05
+    },
+    {
+      "date": "2023-05-10",
+      "leads": 10,
+      "sits": 29,
+      "sold": 35,
+      "bookedRevenue": 475186.45
+    },
+    {
+      "date": "2023-05-11",
+      "leads": 15,
+      "sits": 28,
+      "sold": 28,
+      "bookedRevenue": 536957.0
+    },
+    {
+      "date": "2023-05-12",
+      "leads": 18,
+      "sits": 26,
+      "sold": 30,
+      "bookedRevenue": 424649.09
+    },
+    {
+      "date": "2023-05-13",
+      "leads": 6,
+      "sits": 3,
+      "sold": 5,
+      "bookedRevenue": 86322.0
+    },
+    {
+      "date": "2023-05-14",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-05-15",
+      "leads": 32,
+      "sits": 32,
+      "sold": 35,
+      "bookedRevenue": 511421.21
+    },
+    {
+      "date": "2023-05-16",
+      "leads": 28,
+      "sits": 24,
+      "sold": 23,
+      "bookedRevenue": 583580.63
+    },
+    {
+      "date": "2023-05-17",
+      "leads": 28,
+      "sits": 34,
+      "sold": 29,
+      "bookedRevenue": 426520.19
+    },
+    {
+      "date": "2023-05-18",
+      "leads": 20,
+      "sits": 28,
+      "sold": 32,
+      "bookedRevenue": 456386.56
+    },
+    {
+      "date": "2023-05-19",
+      "leads": 26,
+      "sits": 21,
+      "sold": 24,
+      "bookedRevenue": 312197.66
+    },
+    {
+      "date": "2023-05-20",
+      "leads": 0,
+      "sits": 3,
+      "sold": 4,
+      "bookedRevenue": 49455.52
+    },
+    {
+      "date": "2023-05-21",
+      "leads": 3,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-05-22",
+      "leads": 34,
+      "sits": 24,
+      "sold": 26,
+      "bookedRevenue": 522335.05
+    },
+    {
+      "date": "2023-05-23",
+      "leads": 34,
+      "sits": 35,
+      "sold": 36,
+      "bookedRevenue": 495539.27
+    },
+    {
+      "date": "2023-05-24",
+      "leads": 25,
+      "sits": 33,
+      "sold": 33,
+      "bookedRevenue": 473618.53
+    },
+    {
+      "date": "2023-05-25",
+      "leads": 27,
+      "sits": 20,
+      "sold": 31,
+      "bookedRevenue": 414027.62
+    },
+    {
+      "date": "2023-05-26",
+      "leads": 18,
+      "sits": 16,
+      "sold": 10,
+      "bookedRevenue": 144697.94
+    },
+    {
+      "date": "2023-05-27",
+      "leads": 2,
+      "sits": 2,
+      "sold": 1,
+      "bookedRevenue": 5000.0
+    },
+    {
+      "date": "2023-05-28",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-05-29",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-05-30",
+      "leads": 34,
+      "sits": 30,
+      "sold": 26,
+      "bookedRevenue": 418728.55
+    },
+    {
+      "date": "2023-05-31",
+      "leads": 20,
+      "sits": 18,
+      "sold": 36,
+      "bookedRevenue": 489298.18
+    },
+    {
+      "date": "2023-06-01",
+      "leads": 21,
+      "sits": 25,
+      "sold": 17,
+      "bookedRevenue": 257655.49
+    },
+    {
+      "date": "2023-06-02",
+      "leads": 21,
+      "sits": 23,
+      "sold": 21,
+      "bookedRevenue": 345977.68
+    },
+    {
+      "date": "2023-06-03",
+      "leads": 2,
+      "sits": 4,
+      "sold": 5,
+      "bookedRevenue": 124331.0
+    },
+    {
+      "date": "2023-06-04",
+      "leads": 5,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-06-05",
+      "leads": 42,
+      "sits": 37,
+      "sold": 47,
+      "bookedRevenue": 701353.45
+    },
+    {
+      "date": "2023-06-06",
+      "leads": 26,
+      "sits": 23,
+      "sold": 23,
+      "bookedRevenue": 362640.08
+    },
+    {
+      "date": "2023-06-07",
+      "leads": 48,
+      "sits": 24,
+      "sold": 26,
+      "bookedRevenue": 541011.76
+    },
+    {
+      "date": "2023-06-08",
+      "leads": 29,
+      "sits": 31,
+      "sold": 29,
+      "bookedRevenue": 484626.55
+    },
+    {
+      "date": "2023-06-09",
+      "leads": 22,
+      "sits": 29,
+      "sold": 24,
+      "bookedRevenue": 246387.42
+    },
+    {
+      "date": "2023-06-10",
+      "leads": 6,
+      "sits": 6,
+      "sold": 6,
+      "bookedRevenue": 124351.61
+    },
+    {
+      "date": "2023-06-11",
+      "leads": 5,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-06-12",
+      "leads": 29,
+      "sits": 35,
+      "sold": 40,
+      "bookedRevenue": 625814.54
+    },
+    {
+      "date": "2023-06-13",
+      "leads": 32,
+      "sits": 31,
+      "sold": 21,
+      "bookedRevenue": 264662.52
+    },
+    {
+      "date": "2023-06-14",
+      "leads": 23,
+      "sits": 28,
+      "sold": 28,
+      "bookedRevenue": 605336.73
+    },
+    {
+      "date": "2023-06-15",
+      "leads": 17,
+      "sits": 29,
+      "sold": 26,
+      "bookedRevenue": 318969.4
+    },
+    {
+      "date": "2023-06-16",
+      "leads": 17,
+      "sits": 37,
+      "sold": 38,
+      "bookedRevenue": 482124.85
+    },
+    {
+      "date": "2023-06-17",
+      "leads": 5,
+      "sits": 3,
+      "sold": 5,
+      "bookedRevenue": 76467.03
+    },
+    {
+      "date": "2023-06-19",
+      "leads": 34,
+      "sits": 28,
+      "sold": 27,
+      "bookedRevenue": 366656.44
+    },
+    {
+      "date": "2023-06-20",
+      "leads": 26,
+      "sits": 28,
+      "sold": 31,
+      "bookedRevenue": 606557.18
+    },
+    {
+      "date": "2023-06-21",
+      "leads": 27,
+      "sits": 26,
+      "sold": 25,
+      "bookedRevenue": 310691.74
+    },
+    {
+      "date": "2023-06-22",
+      "leads": 19,
+      "sits": 26,
+      "sold": 25,
+      "bookedRevenue": 317187.54
+    },
+    {
+      "date": "2023-06-23",
+      "leads": 24,
+      "sits": 20,
+      "sold": 25,
+      "bookedRevenue": 396347.39
+    },
+    {
+      "date": "2023-06-24",
+      "leads": 5,
+      "sits": 2,
+      "sold": 1,
+      "bookedRevenue": 14565.0
+    },
+    {
+      "date": "2023-06-25",
+      "leads": 4,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-06-26",
+      "leads": 34,
+      "sits": 25,
+      "sold": 22,
+      "bookedRevenue": 348330.15
+    },
+    {
+      "date": "2023-06-27",
+      "leads": 29,
+      "sits": 24,
+      "sold": 34,
+      "bookedRevenue": 585561.69
+    },
+    {
+      "date": "2023-06-28",
+      "leads": 25,
+      "sits": 31,
+      "sold": 27,
+      "bookedRevenue": 319579.64
+    },
+    {
+      "date": "2023-06-29",
+      "leads": 15,
+      "sits": 26,
+      "sold": 18,
+      "bookedRevenue": 212740.63
+    },
+    {
+      "date": "2023-06-30",
+      "leads": 18,
+      "sits": 13,
+      "sold": 8,
+      "bookedRevenue": 70450.09
+    },
+    {
+      "date": "2023-07-01",
+      "leads": 2,
+      "sits": 1,
+      "sold": 1,
+      "bookedRevenue": 28333.0
+    },
+    {
+      "date": "2023-07-02",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-07-03",
+      "leads": 2,
+      "sits": 1,
+      "sold": 1,
+      "bookedRevenue": 14300.0
+    },
+    {
+      "date": "2023-07-04",
+      "leads": 1,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-07-05",
+      "leads": 44,
+      "sits": 23,
+      "sold": 44,
+      "bookedRevenue": 904283.16
+    },
+    {
+      "date": "2023-07-06",
+      "leads": 33,
+      "sits": 32,
+      "sold": 53,
+      "bookedRevenue": 1277479.92
+    },
+    {
+      "date": "2023-07-07",
+      "leads": 39,
+      "sits": 29,
+      "sold": 31,
+      "bookedRevenue": 609040.66
+    },
+    {
+      "date": "2023-07-08",
+      "leads": 10,
+      "sits": 2,
+      "sold": 4,
+      "bookedRevenue": 86551.18
+    },
+    {
+      "date": "2023-07-09",
+      "leads": 3,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-07-10",
+      "leads": 38,
+      "sits": 32,
+      "sold": 40,
+      "bookedRevenue": 618797.54
+    },
+    {
+      "date": "2023-07-11",
+      "leads": 26,
+      "sits": 31,
+      "sold": 41,
+      "bookedRevenue": 668538.96
+    },
+    {
+      "date": "2023-07-12",
+      "leads": 25,
+      "sits": 26,
+      "sold": 24,
+      "bookedRevenue": 323624.74
+    },
+    {
+      "date": "2023-07-13",
+      "leads": 34,
+      "sits": 18,
+      "sold": 25,
+      "bookedRevenue": 483052.88
+    },
+    {
+      "date": "2023-07-14",
+      "leads": 21,
+      "sits": 27,
+      "sold": 33,
+      "bookedRevenue": 344916.67
+    },
+    {
+      "date": "2023-07-15",
+      "leads": 4,
+      "sits": 5,
+      "sold": 6,
+      "bookedRevenue": 41044.78
+    },
+    {
+      "date": "2023-07-16",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-07-17",
+      "leads": 29,
+      "sits": 30,
+      "sold": 42,
+      "bookedRevenue": 561076.91
+    },
+    {
+      "date": "2023-07-18",
+      "leads": 26,
+      "sits": 23,
+      "sold": 29,
+      "bookedRevenue": 493041.68
+    },
+    {
+      "date": "2023-07-19",
+      "leads": 28,
+      "sits": 31,
+      "sold": 30,
+      "bookedRevenue": 385591.78
+    },
+    {
+      "date": "2023-07-20",
+      "leads": 23,
+      "sits": 35,
+      "sold": 27,
+      "bookedRevenue": 341784.88
+    },
+    {
+      "date": "2023-07-21",
+      "leads": 14,
+      "sits": 23,
+      "sold": 19,
+      "bookedRevenue": 235325.29
+    },
+    {
+      "date": "2023-07-22",
+      "leads": 4,
+      "sits": 1,
+      "sold": 9,
+      "bookedRevenue": 182339.04
+    },
+    {
+      "date": "2023-07-23",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-07-24",
+      "leads": 42,
+      "sits": 30,
+      "sold": 29,
+      "bookedRevenue": 421540.55
+    },
+    {
+      "date": "2023-07-25",
+      "leads": 18,
+      "sits": 29,
+      "sold": 35,
+      "bookedRevenue": 498678.11
+    },
+    {
+      "date": "2023-07-26",
+      "leads": 28,
+      "sits": 26,
+      "sold": 32,
+      "bookedRevenue": 459930.43
+    },
+    {
+      "date": "2023-07-27",
+      "leads": 25,
+      "sits": 27,
+      "sold": 25,
+      "bookedRevenue": 277629.55
+    },
+    {
+      "date": "2023-07-28",
+      "leads": 23,
+      "sits": 23,
+      "sold": 22,
+      "bookedRevenue": 210211.68
+    },
+    {
+      "date": "2023-07-29",
+      "leads": 12,
+      "sits": 3,
+      "sold": 10,
+      "bookedRevenue": 193377.88
+    },
+    {
+      "date": "2023-07-30",
+      "leads": 3,
+      "sits": 3,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-07-31",
+      "leads": 57,
+      "sits": 36,
+      "sold": 43,
+      "bookedRevenue": 462516.75
+    },
+    {
+      "date": "2023-08-01",
+      "leads": 44,
+      "sits": 35,
+      "sold": 33,
+      "bookedRevenue": 509809.39
+    },
+    {
+      "date": "2023-08-02",
+      "leads": 28,
+      "sits": 40,
+      "sold": 34,
+      "bookedRevenue": 566173.4
+    },
+    {
+      "date": "2023-08-03",
+      "leads": 39,
+      "sits": 38,
+      "sold": 31,
+      "bookedRevenue": 435058.8
+    },
+    {
+      "date": "2023-08-04",
+      "leads": 17,
+      "sits": 23,
+      "sold": 34,
+      "bookedRevenue": 328149.99
+    },
+    {
+      "date": "2023-08-05",
+      "leads": 9,
+      "sits": 5,
+      "sold": 9,
+      "bookedRevenue": 195138.69
+    },
+    {
+      "date": "2023-08-06",
+      "leads": 9,
+      "sits": 1,
+      "sold": 1,
+      "bookedRevenue": 17769.0
+    },
+    {
+      "date": "2023-08-07",
+      "leads": 36,
+      "sits": 34,
+      "sold": 30,
+      "bookedRevenue": 422568.72
+    },
+    {
+      "date": "2023-08-08",
+      "leads": 36,
+      "sits": 31,
+      "sold": 45,
+      "bookedRevenue": 754590.39
+    },
+    {
+      "date": "2023-08-09",
+      "leads": 23,
+      "sits": 31,
+      "sold": 28,
+      "bookedRevenue": 444791.6
+    },
+    {
+      "date": "2023-08-10",
+      "leads": 26,
+      "sits": 30,
+      "sold": 34,
+      "bookedRevenue": 471803.56
+    },
+    {
+      "date": "2023-08-11",
+      "leads": 20,
+      "sits": 21,
+      "sold": 22,
+      "bookedRevenue": 372534.83
+    },
+    {
+      "date": "2023-08-12",
+      "leads": 7,
+      "sits": 1,
+      "sold": 5,
+      "bookedRevenue": 180972.02
+    },
+    {
+      "date": "2023-08-13",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-08-14",
+      "leads": 42,
+      "sits": 25,
+      "sold": 24,
+      "bookedRevenue": 220958.58
+    },
+    {
+      "date": "2023-08-15",
+      "leads": 35,
+      "sits": 45,
+      "sold": 33,
+      "bookedRevenue": 501712.25
+    },
+    {
+      "date": "2023-08-16",
+      "leads": 31,
+      "sits": 37,
+      "sold": 28,
+      "bookedRevenue": 480887.03
+    },
+    {
+      "date": "2023-08-17",
+      "leads": 31,
+      "sits": 35,
+      "sold": 34,
+      "bookedRevenue": 553235.08
+    },
+    {
+      "date": "2023-08-18",
+      "leads": 27,
+      "sits": 27,
+      "sold": 27,
+      "bookedRevenue": 287365.63
+    },
+    {
+      "date": "2023-08-19",
+      "leads": 7,
+      "sits": 3,
+      "sold": 5,
+      "bookedRevenue": 74258.47
+    },
+    {
+      "date": "2023-08-20",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-08-21",
+      "leads": 36,
+      "sits": 39,
+      "sold": 35,
+      "bookedRevenue": 548004.84
+    },
+    {
+      "date": "2023-08-22",
+      "leads": 35,
+      "sits": 33,
+      "sold": 35,
+      "bookedRevenue": 616534.42
+    },
+    {
+      "date": "2023-08-23",
+      "leads": 31,
+      "sits": 27,
+      "sold": 28,
+      "bookedRevenue": 398264.75
+    },
+    {
+      "date": "2023-08-24",
+      "leads": 18,
+      "sits": 25,
+      "sold": 31,
+      "bookedRevenue": 447300.82
+    },
+    {
+      "date": "2023-08-25",
+      "leads": 23,
+      "sits": 21,
+      "sold": 29,
+      "bookedRevenue": 469082.06
+    },
+    {
+      "date": "2023-08-26",
+      "leads": 14,
+      "sits": 6,
+      "sold": 3,
+      "bookedRevenue": 82094.4
+    },
+    {
+      "date": "2023-08-27",
+      "leads": 5,
+      "sits": 0,
+      "sold": 2,
+      "bookedRevenue": 3559.8
+    },
+    {
+      "date": "2023-08-28",
+      "leads": 44,
+      "sits": 29,
+      "sold": 33,
+      "bookedRevenue": 547802.44
+    },
+    {
+      "date": "2023-08-29",
+      "leads": 28,
+      "sits": 28,
+      "sold": 34,
+      "bookedRevenue": 489268.37
+    },
+    {
+      "date": "2023-08-30",
+      "leads": 28,
+      "sits": 34,
+      "sold": 31,
+      "bookedRevenue": 422723.85
+    },
+    {
+      "date": "2023-08-31",
+      "leads": 30,
+      "sits": 35,
+      "sold": 37,
+      "bookedRevenue": 539878.21
+    },
+    {
+      "date": "2023-09-01",
+      "leads": 25,
+      "sits": 28,
+      "sold": 29,
+      "bookedRevenue": 320536.78
+    },
+    {
+      "date": "2023-09-02",
+      "leads": 5,
+      "sits": 1,
+      "sold": 1,
+      "bookedRevenue": 10000.0
+    },
+    {
+      "date": "2023-09-03",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-09-04",
+      "leads": 4,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-09-05",
+      "leads": 33,
+      "sits": 37,
+      "sold": 58,
+      "bookedRevenue": 491884.91
+    },
+    {
+      "date": "2023-09-06",
+      "leads": 54,
+      "sits": 31,
+      "sold": 42,
+      "bookedRevenue": 409085.71
+    },
+    {
+      "date": "2023-09-07",
+      "leads": 23,
+      "sits": 36,
+      "sold": 30,
+      "bookedRevenue": 311295.96
+    },
+    {
+      "date": "2023-09-08",
+      "leads": 25,
+      "sits": 35,
+      "sold": 39,
+      "bookedRevenue": 585770.85
+    },
+    {
+      "date": "2023-09-09",
+      "leads": 9,
+      "sits": 4,
+      "sold": 10,
+      "bookedRevenue": 80288.0
+    },
+    {
+      "date": "2023-09-10",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-09-11",
+      "leads": 21,
+      "sits": 26,
+      "sold": 23,
+      "bookedRevenue": 295574.74
+    },
+    {
+      "date": "2023-09-12",
+      "leads": 37,
+      "sits": 31,
+      "sold": 45,
+      "bookedRevenue": 513522.41
+    },
+    {
+      "date": "2023-09-13",
+      "leads": 33,
+      "sits": 15,
+      "sold": 28,
+      "bookedRevenue": 509934.44
+    },
+    {
+      "date": "2023-09-14",
+      "leads": 27,
+      "sits": 30,
+      "sold": 32,
+      "bookedRevenue": 359755.43
+    },
+    {
+      "date": "2023-09-15",
+      "leads": 28,
+      "sits": 22,
+      "sold": 29,
+      "bookedRevenue": 380719.32
+    },
+    {
+      "date": "2023-09-16",
+      "leads": 0,
+      "sits": 2,
+      "sold": 2,
+      "bookedRevenue": 26599.0
+    },
+    {
+      "date": "2023-09-17",
+      "leads": 3,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-09-18",
+      "leads": 32,
+      "sits": 36,
+      "sold": 30,
+      "bookedRevenue": 560081.61
+    },
+    {
+      "date": "2023-09-19",
+      "leads": 21,
+      "sits": 32,
+      "sold": 29,
+      "bookedRevenue": 358282.98
+    },
+    {
+      "date": "2023-09-20",
+      "leads": 29,
+      "sits": 26,
+      "sold": 28,
+      "bookedRevenue": 297912.55
+    },
+    {
+      "date": "2023-09-21",
+      "leads": 30,
+      "sits": 29,
+      "sold": 29,
+      "bookedRevenue": 444879.74
+    },
+    {
+      "date": "2023-09-22",
+      "leads": 28,
+      "sits": 19,
+      "sold": 22,
+      "bookedRevenue": 274691.44
+    },
+    {
+      "date": "2023-09-23",
+      "leads": 6,
+      "sits": 2,
+      "sold": 5,
+      "bookedRevenue": 67523.88
+    },
+    {
+      "date": "2023-09-24",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-09-25",
+      "leads": 32,
+      "sits": 39,
+      "sold": 31,
+      "bookedRevenue": 1244290.57
+    },
+    {
+      "date": "2023-09-26",
+      "leads": 44,
+      "sits": 26,
+      "sold": 31,
+      "bookedRevenue": 397128.34
+    },
+    {
+      "date": "2023-09-27",
+      "leads": 38,
+      "sits": 26,
+      "sold": 43,
+      "bookedRevenue": 525609.45
+    },
+    {
+      "date": "2023-09-28",
+      "leads": 27,
+      "sits": 25,
+      "sold": 28,
+      "bookedRevenue": 352501.12
+    },
+    {
+      "date": "2023-09-29",
+      "leads": 23,
+      "sits": 24,
+      "sold": 33,
+      "bookedRevenue": 477956.24
+    },
+    {
+      "date": "2023-09-30",
+      "leads": 3,
+      "sits": 5,
+      "sold": 3,
+      "bookedRevenue": 21325.47
+    },
+    {
+      "date": "2023-10-01",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-10-02",
+      "leads": 26,
+      "sits": 33,
+      "sold": 31,
+      "bookedRevenue": 423172.15
+    },
+    {
+      "date": "2023-10-03",
+      "leads": 27,
+      "sits": 34,
+      "sold": 31,
+      "bookedRevenue": 298831.55
+    },
+    {
+      "date": "2023-10-04",
+      "leads": 25,
+      "sits": 32,
+      "sold": 31,
+      "bookedRevenue": 377855.01
+    },
+    {
+      "date": "2023-10-05",
+      "leads": 25,
+      "sits": 29,
+      "sold": 35,
+      "bookedRevenue": 462808.62
+    },
+    {
+      "date": "2023-10-06",
+      "leads": 33,
+      "sits": 24,
+      "sold": 39,
+      "bookedRevenue": 556877.66
+    },
+    {
+      "date": "2023-10-07",
+      "leads": 6,
+      "sits": 4,
+      "sold": 2,
+      "bookedRevenue": 14194.0
+    },
+    {
+      "date": "2023-10-08",
+      "leads": 4,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-10-09",
+      "leads": 33,
+      "sits": 28,
+      "sold": 26,
+      "bookedRevenue": 486007.11
+    },
+    {
+      "date": "2023-10-10",
+      "leads": 26,
+      "sits": 25,
+      "sold": 14,
+      "bookedRevenue": 117087.59
+    },
+    {
+      "date": "2023-10-11",
+      "leads": 20,
+      "sits": 23,
+      "sold": 29,
+      "bookedRevenue": 498834.59
+    },
+    {
+      "date": "2023-10-12",
+      "leads": 17,
+      "sits": 24,
+      "sold": 38,
+      "bookedRevenue": 491590.15
+    },
+    {
+      "date": "2023-10-13",
+      "leads": 22,
+      "sits": 12,
+      "sold": 14,
+      "bookedRevenue": 166552.29
+    },
+    {
+      "date": "2023-10-14",
+      "leads": 3,
+      "sits": 1,
+      "sold": 2,
+      "bookedRevenue": 6893.0
+    },
+    {
+      "date": "2023-10-15",
+      "leads": 6,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-10-16",
+      "leads": 40,
+      "sits": 29,
+      "sold": 27,
+      "bookedRevenue": 284427.52
+    },
+    {
+      "date": "2023-10-17",
+      "leads": 36,
+      "sits": 34,
+      "sold": 37,
+      "bookedRevenue": 396760.03
+    },
+    {
+      "date": "2023-10-18",
+      "leads": 34,
+      "sits": 30,
+      "sold": 29,
+      "bookedRevenue": 291848.59
+    },
+    {
+      "date": "2023-10-19",
+      "leads": 37,
+      "sits": 36,
+      "sold": 30,
+      "bookedRevenue": 367600.63
+    },
+    {
+      "date": "2023-10-20",
+      "leads": 11,
+      "sits": 25,
+      "sold": 28,
+      "bookedRevenue": 446901.13
+    },
+    {
+      "date": "2023-10-21",
+      "leads": 10,
+      "sits": 5,
+      "sold": 12,
+      "bookedRevenue": 148160.37
+    },
+    {
+      "date": "2023-10-22",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-10-23",
+      "leads": 23,
+      "sits": 15,
+      "sold": 28,
+      "bookedRevenue": 309171.77
+    },
+    {
+      "date": "2023-10-24",
+      "leads": 29,
+      "sits": 27,
+      "sold": 34,
+      "bookedRevenue": 310634.92
+    },
+    {
+      "date": "2023-10-25",
+      "leads": 24,
+      "sits": 15,
+      "sold": 24,
+      "bookedRevenue": 507225.55
+    },
+    {
+      "date": "2023-10-26",
+      "leads": 23,
+      "sits": 19,
+      "sold": 18,
+      "bookedRevenue": 165238.76
+    },
+    {
+      "date": "2023-10-27",
+      "leads": 10,
+      "sits": 22,
+      "sold": 20,
+      "bookedRevenue": 171884.67
+    },
+    {
+      "date": "2023-10-28",
+      "leads": 1,
+      "sits": 4,
+      "sold": 6,
+      "bookedRevenue": 93335.69
+    },
+    {
+      "date": "2023-10-29",
+      "leads": 4,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-10-30",
+      "leads": 34,
+      "sits": 28,
+      "sold": 35,
+      "bookedRevenue": 409661.89
+    },
+    {
+      "date": "2023-10-31",
+      "leads": 29,
+      "sits": 24,
+      "sold": 28,
+      "bookedRevenue": 386396.99
+    },
+    {
+      "date": "2023-11-01",
+      "leads": 26,
+      "sits": 22,
+      "sold": 21,
+      "bookedRevenue": 1638805.5
+    },
+    {
+      "date": "2023-11-02",
+      "leads": 24,
+      "sits": 28,
+      "sold": 36,
+      "bookedRevenue": 427774.06
+    },
+    {
+      "date": "2023-11-03",
+      "leads": 14,
+      "sits": 20,
+      "sold": 28,
+      "bookedRevenue": 391768.04
+    },
+    {
+      "date": "2023-11-04",
+      "leads": 6,
+      "sits": 4,
+      "sold": 4,
+      "bookedRevenue": 98000.0
+    },
+    {
+      "date": "2023-11-05",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-11-06",
+      "leads": 35,
+      "sits": 24,
+      "sold": 17,
+      "bookedRevenue": 162536.91
+    },
+    {
+      "date": "2023-11-07",
+      "leads": 23,
+      "sits": 23,
+      "sold": 29,
+      "bookedRevenue": 310247.75
+    },
+    {
+      "date": "2023-11-08",
+      "leads": 23,
+      "sits": 20,
+      "sold": 11,
+      "bookedRevenue": 179138.14
+    },
+    {
+      "date": "2023-11-09",
+      "leads": 17,
+      "sits": 28,
+      "sold": 24,
+      "bookedRevenue": 764067.78
+    },
+    {
+      "date": "2023-11-10",
+      "leads": 25,
+      "sits": 27,
+      "sold": 36,
+      "bookedRevenue": 552648.71
+    },
+    {
+      "date": "2023-11-11",
+      "leads": 2,
+      "sits": 1,
+      "sold": 1,
+      "bookedRevenue": 31928.05
+    },
+    {
+      "date": "2023-11-12",
+      "leads": 2,
+      "sits": 0,
+      "sold": 3,
+      "bookedRevenue": 23861.73
+    },
+    {
+      "date": "2023-11-13",
+      "leads": 27,
+      "sits": 22,
+      "sold": 16,
+      "bookedRevenue": 132522.06
+    },
+    {
+      "date": "2023-11-14",
+      "leads": 25,
+      "sits": 23,
+      "sold": 15,
+      "bookedRevenue": 221348.6
+    },
+    {
+      "date": "2023-11-15",
+      "leads": 37,
+      "sits": 29,
+      "sold": 41,
+      "bookedRevenue": 355713.31
+    },
+    {
+      "date": "2023-11-16",
+      "leads": 15,
+      "sits": 32,
+      "sold": 28,
+      "bookedRevenue": 254158.45
+    },
+    {
+      "date": "2023-11-17",
+      "leads": 27,
+      "sits": 31,
+      "sold": 34,
+      "bookedRevenue": 496513.44
+    },
+    {
+      "date": "2023-11-18",
+      "leads": 0,
+      "sits": 4,
+      "sold": 3,
+      "bookedRevenue": 40392.8
+    },
+    {
+      "date": "2023-11-19",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-11-20",
+      "leads": 21,
+      "sits": 28,
+      "sold": 26,
+      "bookedRevenue": 396767.65
+    },
+    {
+      "date": "2023-11-21",
+      "leads": 15,
+      "sits": 16,
+      "sold": 12,
+      "bookedRevenue": 159787.21
+    },
+    {
+      "date": "2023-11-22",
+      "leads": 20,
+      "sits": 16,
+      "sold": 8,
+      "bookedRevenue": 72935.86
+    },
+    {
+      "date": "2023-11-23",
+      "leads": 0,
+      "sits": 0,
+      "sold": 3,
+      "bookedRevenue": 57757.81
+    },
+    {
+      "date": "2023-11-24",
+      "leads": 0,
+      "sits": 0,
+      "sold": 5,
+      "bookedRevenue": 62020.8
+    },
+    {
+      "date": "2023-11-25",
+      "leads": 3,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-11-26",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-11-27",
+      "leads": 20,
+      "sits": 24,
+      "sold": 38,
+      "bookedRevenue": 440071.57
+    },
+    {
+      "date": "2023-11-28",
+      "leads": 16,
+      "sits": 10,
+      "sold": 14,
+      "bookedRevenue": 172239.48
+    },
+    {
+      "date": "2023-11-29",
+      "leads": 10,
+      "sits": 15,
+      "sold": 15,
+      "bookedRevenue": 179125.85
+    },
+    {
+      "date": "2023-11-30",
+      "leads": 15,
+      "sits": 21,
+      "sold": 17,
+      "bookedRevenue": 229921.31
+    },
+    {
+      "date": "2023-12-01",
+      "leads": 16,
+      "sits": 21,
+      "sold": 27,
+      "bookedRevenue": 344193.31
+    },
+    {
+      "date": "2023-12-02",
+      "leads": 1,
+      "sits": 1,
+      "sold": 3,
+      "bookedRevenue": 38258.68
+    },
+    {
+      "date": "2023-12-03",
+      "leads": 1,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-12-04",
+      "leads": 18,
+      "sits": 15,
+      "sold": 19,
+      "bookedRevenue": 226224.39
+    },
+    {
+      "date": "2023-12-05",
+      "leads": 15,
+      "sits": 16,
+      "sold": 23,
+      "bookedRevenue": 220453.85
+    },
+    {
+      "date": "2023-12-06",
+      "leads": 15,
+      "sits": 18,
+      "sold": 17,
+      "bookedRevenue": 343333.58
+    },
+    {
+      "date": "2023-12-07",
+      "leads": 11,
+      "sits": 17,
+      "sold": 14,
+      "bookedRevenue": 554430.75
+    },
+    {
+      "date": "2023-12-08",
+      "leads": 11,
+      "sits": 12,
+      "sold": 15,
+      "bookedRevenue": 895387.07
+    },
+    {
+      "date": "2023-12-09",
+      "leads": 3,
+      "sits": 7,
+      "sold": 5,
+      "bookedRevenue": 81731.11
+    },
+    {
+      "date": "2023-12-10",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-12-11",
+      "leads": 18,
+      "sits": 17,
+      "sold": 18,
+      "bookedRevenue": 164447.0
+    },
+    {
+      "date": "2023-12-12",
+      "leads": 9,
+      "sits": 15,
+      "sold": 16,
+      "bookedRevenue": 149203.95
+    },
+    {
+      "date": "2023-12-13",
+      "leads": 7,
+      "sits": 10,
+      "sold": 7,
+      "bookedRevenue": 116482.64
+    },
+    {
+      "date": "2023-12-14",
+      "leads": 10,
+      "sits": 16,
+      "sold": 17,
+      "bookedRevenue": 234332.82
+    },
+    {
+      "date": "2023-12-15",
+      "leads": 10,
+      "sits": 6,
+      "sold": 9,
+      "bookedRevenue": 108915.0
+    },
+    {
+      "date": "2023-12-18",
+      "leads": 12,
+      "sits": 15,
+      "sold": 19,
+      "bookedRevenue": 249721.57
+    },
+    {
+      "date": "2023-12-19",
+      "leads": 19,
+      "sits": 13,
+      "sold": 12,
+      "bookedRevenue": 154162.45
+    },
+    {
+      "date": "2023-12-20",
+      "leads": 4,
+      "sits": 9,
+      "sold": 5,
+      "bookedRevenue": 44628.22
+    },
+    {
+      "date": "2023-12-21",
+      "leads": 8,
+      "sits": 11,
+      "sold": 20,
+      "bookedRevenue": 240963.59
+    },
+    {
+      "date": "2023-12-22",
+      "leads": 2,
+      "sits": 5,
+      "sold": 7,
+      "bookedRevenue": 80090.34
+    },
+    {
+      "date": "2023-12-23",
+      "leads": 2,
+      "sits": 1,
+      "sold": 3,
+      "bookedRevenue": 37894.59
+    },
+    {
+      "date": "2023-12-24",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2023-12-26",
+      "leads": 5,
+      "sits": 2,
+      "sold": 6,
+      "bookedRevenue": 153169.27
+    },
+    {
+      "date": "2023-12-27",
+      "leads": 13,
+      "sits": 7,
+      "sold": 13,
+      "bookedRevenue": 179803.52
+    },
+    {
+      "date": "2023-12-28",
+      "leads": 11,
+      "sits": 4,
+      "sold": 4,
+      "bookedRevenue": 33415.0
+    },
+    {
+      "date": "2023-12-29",
+      "leads": 3,
+      "sits": 10,
+      "sold": 3,
+      "bookedRevenue": 17897.1
+    },
+    {
+      "date": "2023-12-30",
+      "leads": 1,
+      "sits": 3,
+      "sold": 1,
+      "bookedRevenue": 6000.0
+    },
+    {
+      "date": "2024-01-01",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2024-01-02",
+      "leads": 28,
+      "sits": 12,
+      "sold": 31,
+      "bookedRevenue": 583746.93
+    },
+    {
+      "date": "2024-01-03",
+      "leads": 17,
+      "sits": 7,
+      "sold": 7,
+      "bookedRevenue": 126758.0
+    },
+    {
+      "date": "2024-01-04",
+      "leads": 8,
+      "sits": 16,
+      "sold": 14,
+      "bookedRevenue": 102320.85
+    },
+    {
+      "date": "2024-01-05",
+      "leads": 10,
+      "sits": 10,
+      "sold": 6,
+      "bookedRevenue": 70867.0
+    },
+    {
+      "date": "2024-01-06",
+      "leads": 5,
+      "sits": 3,
+      "sold": 1,
+      "bookedRevenue": 8000.0
+    },
+    {
+      "date": "2024-01-07",
+      "leads": 6,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2024-01-08",
+      "leads": 31,
+      "sits": 14,
+      "sold": 10,
+      "bookedRevenue": 188932.05
+    },
+    {
+      "date": "2024-01-09",
+      "leads": 3,
+      "sits": 0,
+      "sold": 3,
+      "bookedRevenue": 50939.82
+    },
+    {
+      "date": "2024-01-10",
+      "leads": 5,
+      "sits": 10,
+      "sold": 9,
+      "bookedRevenue": 157909.06
+    },
+    {
+      "date": "2024-01-11",
+      "leads": 6,
+      "sits": 16,
+      "sold": 16,
+      "bookedRevenue": 163858.79
+    },
+    {
+      "date": "2024-01-12",
+      "leads": 1,
+      "sits": 0,
+      "sold": 2,
+      "bookedRevenue": 12642.99
+    },
+    {
+      "date": "2024-01-13",
+      "leads": 4,
+      "sits": 2,
+      "sold": 1,
+      "bookedRevenue": 15830.07
+    },
+    {
+      "date": "2024-01-14",
+      "leads": 3,
+      "sits": 0,
+      "sold": 2,
+      "bookedRevenue": 17700.0
+    },
+    {
+      "date": "2024-01-15",
+      "leads": 14,
+      "sits": 6,
+      "sold": 6,
+      "bookedRevenue": 49901.4
+    },
+    {
+      "date": "2024-01-16",
+      "leads": 9,
+      "sits": 4,
+      "sold": 5,
+      "bookedRevenue": 90679.0
+    },
+    {
+      "date": "2024-01-17",
+      "leads": 11,
+      "sits": 7,
+      "sold": 8,
+      "bookedRevenue": 53367.0
+    },
+    {
+      "date": "2024-01-18",
+      "leads": 14,
+      "sits": 10,
+      "sold": 15,
+      "bookedRevenue": 310696.87
+    },
+    {
+      "date": "2024-01-19",
+      "leads": 6,
+      "sits": 12,
+      "sold": 14,
+      "bookedRevenue": 147546.27
+    },
+    {
+      "date": "2024-01-20",
+      "leads": 4,
+      "sits": 6,
+      "sold": 9,
+      "bookedRevenue": 142857.98
+    },
+    {
+      "date": "2024-01-21",
+      "leads": 1,
+      "sits": 0,
+      "sold": 1,
+      "bookedRevenue": 11675.4
+    },
+    {
+      "date": "2024-01-22",
+      "leads": 30,
+      "sits": 15,
+      "sold": 14,
+      "bookedRevenue": 354917.77
+    },
+    {
+      "date": "2024-01-23",
+      "leads": 3,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2024-01-24",
+      "leads": 14,
+      "sits": 11,
+      "sold": 12,
+      "bookedRevenue": 116208.0
+    },
+    {
+      "date": "2024-01-25",
+      "leads": 18,
+      "sits": 25,
+      "sold": 23,
+      "bookedRevenue": 1561461.39
+    },
+    {
+      "date": "2024-01-26",
+      "leads": 14,
+      "sits": 20,
+      "sold": 17,
+      "bookedRevenue": 108105.28
+    },
+    {
+      "date": "2024-01-27",
+      "leads": 3,
+      "sits": 5,
+      "sold": 3,
+      "bookedRevenue": 33750.0
+    },
+    {
+      "date": "2024-01-28",
+      "leads": 2,
+      "sits": 0,
+      "sold": 2,
+      "bookedRevenue": 20028.31
+    },
+    {
+      "date": "2024-01-29",
+      "leads": 15,
+      "sits": 17,
+      "sold": 21,
+      "bookedRevenue": 226098.93
+    },
+    {
+      "date": "2024-01-30",
+      "leads": 16,
+      "sits": 20,
+      "sold": 20,
+      "bookedRevenue": 191441.97
+    },
+    {
+      "date": "2024-01-31",
+      "leads": 21,
+      "sits": 14,
+      "sold": 16,
+      "bookedRevenue": 342915.2
+    },
+    {
+      "date": "2024-02-01",
+      "leads": 15,
+      "sits": 11,
+      "sold": 12,
+      "bookedRevenue": 122104.25
+    },
+    {
+      "date": "2024-02-02",
+      "leads": 21,
+      "sits": 18,
+      "sold": 18,
+      "bookedRevenue": 320696.73
+    },
+    {
+      "date": "2024-02-03",
+      "leads": 1,
+      "sits": 6,
+      "sold": 4,
+      "bookedRevenue": 33599.05
+    },
+    {
+      "date": "2024-02-05",
+      "leads": 26,
+      "sits": 22,
+      "sold": 21,
+      "bookedRevenue": 513074.83
+    },
+    {
+      "date": "2024-02-06",
+      "leads": 19,
+      "sits": 20,
+      "sold": 18,
+      "bookedRevenue": 194577.24
+    },
+    {
+      "date": "2024-02-07",
+      "leads": 17,
+      "sits": 19,
+      "sold": 22,
+      "bookedRevenue": 243550.02
+    },
+    {
+      "date": "2024-02-08",
+      "leads": 14,
+      "sits": 21,
+      "sold": 17,
+      "bookedRevenue": 273617.55
+    },
+    {
+      "date": "2024-02-09",
+      "leads": 24,
+      "sits": 18,
+      "sold": 23,
+      "bookedRevenue": 324624.03
+    },
+    {
+      "date": "2024-02-10",
+      "leads": 6,
+      "sits": 6,
+      "sold": 6,
+      "bookedRevenue": 92217.06
+    },
+    {
+      "date": "2024-02-11",
+      "leads": 4,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2024-02-12",
+      "leads": 47,
+      "sits": 28,
+      "sold": 33,
+      "bookedRevenue": 516086.37
+    },
+    {
+      "date": "2024-02-13",
+      "leads": 22,
+      "sits": 22,
+      "sold": 16,
+      "bookedRevenue": 115190.09
+    },
+    {
+      "date": "2024-02-14",
+      "leads": 12,
+      "sits": 20,
+      "sold": 18,
+      "bookedRevenue": 217519.33
+    },
+    {
+      "date": "2024-02-15",
+      "leads": 16,
+      "sits": 12,
+      "sold": 16,
+      "bookedRevenue": 209420.72
+    },
+    {
+      "date": "2024-02-16",
+      "leads": 16,
+      "sits": 19,
+      "sold": 18,
+      "bookedRevenue": 328255.11
+    },
+    {
+      "date": "2024-02-17",
+      "leads": 6,
+      "sits": 7,
+      "sold": 5,
+      "bookedRevenue": 121700.0
+    },
+    {
+      "date": "2024-02-18",
+      "leads": 3,
+      "sits": 1,
+      "sold": 2,
+      "bookedRevenue": 10341.0
+    },
+    {
+      "date": "2024-02-19",
+      "leads": 43,
+      "sits": 28,
+      "sold": 34,
+      "bookedRevenue": 951959.77
+    },
+    {
+      "date": "2024-02-20",
+      "leads": 16,
+      "sits": 28,
+      "sold": 25,
+      "bookedRevenue": 240973.54
+    },
+    {
+      "date": "2024-02-21",
+      "leads": 19,
+      "sits": 18,
+      "sold": 12,
+      "bookedRevenue": 138603.25
+    },
+    {
+      "date": "2024-02-22",
+      "leads": 15,
+      "sits": 23,
+      "sold": 18,
+      "bookedRevenue": 234380.83
+    },
+    {
+      "date": "2024-02-23",
+      "leads": 11,
+      "sits": 22,
+      "sold": 24,
+      "bookedRevenue": 329019.47
+    },
+    {
+      "date": "2024-02-24",
+      "leads": 6,
+      "sits": 5,
+      "sold": 3,
+      "bookedRevenue": 18991.0
+    },
+    {
+      "date": "2024-02-25",
+      "leads": 6,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2024-02-26",
+      "leads": 56,
+      "sits": 27,
+      "sold": 31,
+      "bookedRevenue": 316741.39
+    },
+    {
+      "date": "2024-02-27",
+      "leads": 37,
+      "sits": 26,
+      "sold": 31,
+      "bookedRevenue": 399818.67
+    },
+    {
+      "date": "2024-02-28",
+      "leads": 23,
+      "sits": 29,
+      "sold": 27,
+      "bookedRevenue": 488285.33
+    },
+    {
+      "date": "2024-02-29",
+      "leads": 30,
+      "sits": 29,
+      "sold": 29,
+      "bookedRevenue": 479897.59
+    },
+    {
+      "date": "2024-03-01",
+      "leads": 10,
+      "sits": 25,
+      "sold": 27,
+      "bookedRevenue": 390314.88
+    },
+    {
+      "date": "2024-03-02",
+      "leads": 5,
+      "sits": 7,
+      "sold": 6,
+      "bookedRevenue": 129043.74
+    },
+    {
+      "date": "2024-03-03",
+      "leads": 5,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2024-03-04",
+      "leads": 31,
+      "sits": 32,
+      "sold": 36,
+      "bookedRevenue": 465441.77
+    },
+    {
+      "date": "2024-03-05",
+      "leads": 38,
+      "sits": 29,
+      "sold": 25,
+      "bookedRevenue": 326291.78
+    },
+    {
+      "date": "2024-03-06",
+      "leads": 20,
+      "sits": 30,
+      "sold": 34,
+      "bookedRevenue": 460483.46
+    },
+    {
+      "date": "2024-03-07",
+      "leads": 39,
+      "sits": 23,
+      "sold": 28,
+      "bookedRevenue": 485906.31
+    },
+    {
+      "date": "2024-03-08",
+      "leads": 34,
+      "sits": 21,
+      "sold": 20,
+      "bookedRevenue": 924804.07
+    },
+    {
+      "date": "2024-03-09",
+      "leads": 13,
+      "sits": 6,
+      "sold": 4,
+      "bookedRevenue": 25456.0
+    },
+    {
+      "date": "2024-03-10",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2024-03-11",
+      "leads": 47,
+      "sits": 30,
+      "sold": 30,
+      "bookedRevenue": 260929.7
+    },
+    {
+      "date": "2024-03-12",
+      "leads": 29,
+      "sits": 32,
+      "sold": 28,
+      "bookedRevenue": 411963.03
+    },
+    {
+      "date": "2024-03-13",
+      "leads": 29,
+      "sits": 26,
+      "sold": 37,
+      "bookedRevenue": 365731.18
+    },
+    {
+      "date": "2024-03-14",
+      "leads": 39,
+      "sits": 31,
+      "sold": 34,
+      "bookedRevenue": 493905.06
+    },
+    {
+      "date": "2024-03-15",
+      "leads": 34,
+      "sits": 27,
+      "sold": 32,
+      "bookedRevenue": 490248.14
+    },
+    {
+      "date": "2024-03-16",
+      "leads": 10,
+      "sits": 7,
+      "sold": 14,
+      "bookedRevenue": 174747.04
+    },
+    {
+      "date": "2024-03-17",
+      "leads": 10,
+      "sits": 1,
+      "sold": 2,
+      "bookedRevenue": 11367.55
+    },
+    {
+      "date": "2024-03-18",
+      "leads": 49,
+      "sits": 39,
+      "sold": 38,
+      "bookedRevenue": 465604.41
+    },
+    {
+      "date": "2024-03-19",
+      "leads": 21,
+      "sits": 33,
+      "sold": 35,
+      "bookedRevenue": 632111.04
+    },
+    {
+      "date": "2024-03-20",
+      "leads": 32,
+      "sits": 32,
+      "sold": 24,
+      "bookedRevenue": 414568.93
+    },
+    {
+      "date": "2024-03-21",
+      "leads": 18,
+      "sits": 40,
+      "sold": 36,
+      "bookedRevenue": 717391.09
+    },
+    {
+      "date": "2024-03-22",
+      "leads": 21,
+      "sits": 15,
+      "sold": 13,
+      "bookedRevenue": 199741.83
+    },
+    {
+      "date": "2024-03-23",
+      "leads": 6,
+      "sits": 3,
+      "sold": 5,
+      "bookedRevenue": 60616.6
+    },
+    {
+      "date": "2024-03-24",
+      "leads": 3,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2024-03-25",
+      "leads": 40,
+      "sits": 29,
+      "sold": 30,
+      "bookedRevenue": 549257.68
+    },
+    {
+      "date": "2024-03-26",
+      "leads": 41,
+      "sits": 29,
+      "sold": 36,
+      "bookedRevenue": 2355426.56
+    },
+    {
+      "date": "2024-03-27",
+      "leads": 37,
+      "sits": 40,
+      "sold": 33,
+      "bookedRevenue": 430895.82
+    },
+    {
+      "date": "2024-03-28",
+      "leads": 37,
+      "sits": 41,
+      "sold": 43,
+      "bookedRevenue": 495567.61
+    },
+    {
+      "date": "2024-03-29",
+      "leads": 22,
+      "sits": 33,
+      "sold": 32,
+      "bookedRevenue": 565607.16
+    },
+    {
+      "date": "2024-03-30",
+      "leads": 7,
+      "sits": 7,
+      "sold": 2,
+      "bookedRevenue": 14498.0
+    },
+    {
+      "date": "2024-03-31",
+      "leads": 8,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2024-04-01",
+      "leads": 46,
+      "sits": 39,
+      "sold": 62,
+      "bookedRevenue": 820893.88
+    },
+    {
+      "date": "2024-04-02",
+      "leads": 54,
+      "sits": 37,
+      "sold": 25,
+      "bookedRevenue": 365945.83
+    },
+    {
+      "date": "2024-04-03",
+      "leads": 32,
+      "sits": 24,
+      "sold": 23,
+      "bookedRevenue": 199444.67
+    },
+    {
+      "date": "2024-04-04",
+      "leads": 32,
+      "sits": 39,
+      "sold": 47,
+      "bookedRevenue": 451821.33
+    },
+    {
+      "date": "2024-04-05",
+      "leads": 26,
+      "sits": 20,
+      "sold": 22,
+      "bookedRevenue": 266225.62
+    },
+    {
+      "date": "2024-04-06",
+      "leads": 16,
+      "sits": 11,
+      "sold": 21,
+      "bookedRevenue": 438473.41
+    },
+    {
+      "date": "2024-04-07",
+      "leads": 5,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2024-04-08",
+      "leads": 47,
+      "sits": 44,
+      "sold": 49,
+      "bookedRevenue": 723364.47
+    },
+    {
+      "date": "2024-04-09",
+      "leads": 28,
+      "sits": 39,
+      "sold": 37,
+      "bookedRevenue": 615169.25
+    },
+    {
+      "date": "2024-04-10",
+      "leads": 31,
+      "sits": 40,
+      "sold": 39,
+      "bookedRevenue": 466905.27
+    },
+    {
+      "date": "2024-04-11",
+      "leads": 24,
+      "sits": 43,
+      "sold": 49,
+      "bookedRevenue": 705884.13
+    },
+    {
+      "date": "2024-04-12",
+      "leads": 33,
+      "sits": 37,
+      "sold": 38,
+      "bookedRevenue": 509537.56
+    },
+    {
+      "date": "2024-04-13",
+      "leads": 9,
+      "sits": 8,
+      "sold": 7,
+      "bookedRevenue": 79485.33
+    },
+    {
+      "date": "2024-04-14",
+      "leads": 3,
+      "sits": 0,
+      "sold": 3,
+      "bookedRevenue": 19149.0
+    },
+    {
+      "date": "2024-04-15",
+      "leads": 36,
+      "sits": 40,
+      "sold": 47,
+      "bookedRevenue": 647227.69
+    },
+    {
+      "date": "2024-04-16",
+      "leads": 31,
+      "sits": 29,
+      "sold": 37,
+      "bookedRevenue": 633033.52
+    },
+    {
+      "date": "2024-04-17",
+      "leads": 31,
+      "sits": 28,
+      "sold": 31,
+      "bookedRevenue": 380578.28
+    },
+    {
+      "date": "2024-04-18",
+      "leads": 35,
+      "sits": 37,
+      "sold": 42,
+      "bookedRevenue": 519769.95
+    },
+    {
+      "date": "2024-04-19",
+      "leads": 28,
+      "sits": 31,
+      "sold": 39,
+      "bookedRevenue": 428639.3
+    },
+    {
+      "date": "2024-04-20",
+      "leads": 11,
+      "sits": 5,
+      "sold": 3,
+      "bookedRevenue": 91500.0
+    },
+    {
+      "date": "2024-04-21",
+      "leads": 3,
+      "sits": 1,
+      "sold": 4,
+      "bookedRevenue": 10440.44
+    },
+    {
+      "date": "2024-04-22",
+      "leads": 52,
+      "sits": 40,
+      "sold": 54,
+      "bookedRevenue": 1877391.44
+    },
+    {
+      "date": "2024-04-23",
+      "leads": 26,
+      "sits": 32,
+      "sold": 23,
+      "bookedRevenue": 332485.64
+    },
+    {
+      "date": "2024-04-24",
+      "leads": 31,
+      "sits": 28,
+      "sold": 32,
+      "bookedRevenue": 888135.86
+    },
+    {
+      "date": "2024-04-25",
+      "leads": 42,
+      "sits": 32,
+      "sold": 41,
+      "bookedRevenue": 538056.56
+    },
+    {
+      "date": "2024-04-26",
+      "leads": 12,
+      "sits": 25,
+      "sold": 27,
+      "bookedRevenue": 435779.66
+    },
+    {
+      "date": "2024-04-27",
+      "leads": 7,
+      "sits": 5,
+      "sold": 5,
+      "bookedRevenue": 106134.0
+    },
+    {
+      "date": "2024-04-28",
+      "leads": 5,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2024-04-29",
+      "leads": 45,
+      "sits": 29,
+      "sold": 15,
+      "bookedRevenue": 143164.1
+    },
+    {
+      "date": "2024-04-30",
+      "leads": 30,
+      "sits": 27,
+      "sold": 20,
+      "bookedRevenue": 272290.0
+    },
+    {
+      "date": "2024-05-01",
+      "leads": 29,
+      "sits": 27,
+      "sold": 62,
+      "bookedRevenue": 1089896.81
+    },
+    {
+      "date": "2024-05-02",
+      "leads": 39,
+      "sits": 30,
+      "sold": 43,
+      "bookedRevenue": 780395.82
+    },
+    {
+      "date": "2024-05-03",
+      "leads": 23,
+      "sits": 32,
+      "sold": 39,
+      "bookedRevenue": 443971.26
+    },
+    {
+      "date": "2024-05-04",
+      "leads": 6,
+      "sits": 7,
+      "sold": 3,
+      "bookedRevenue": 65500.0
+    },
+    {
+      "date": "2024-05-05",
+      "leads": 4,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2024-05-06",
+      "leads": 44,
+      "sits": 44,
+      "sold": 34,
+      "bookedRevenue": 414101.51
+    },
+    {
+      "date": "2024-05-07",
+      "leads": 44,
+      "sits": 17,
+      "sold": 22,
+      "bookedRevenue": 343700.23
+    },
+    {
+      "date": "2024-05-08",
+      "leads": 93,
+      "sits": 39,
+      "sold": 28,
+      "bookedRevenue": 279208.2
+    },
+    {
+      "date": "2024-05-09",
+      "leads": 62,
+      "sits": 48,
+      "sold": 59,
+      "bookedRevenue": 697234.87
+    },
+    {
+      "date": "2024-05-10",
+      "leads": 46,
+      "sits": 57,
+      "sold": 51,
+      "bookedRevenue": 547531.08
+    },
+    {
+      "date": "2024-05-11",
+      "leads": 21,
+      "sits": 15,
+      "sold": 9,
+      "bookedRevenue": 46692.0
+    },
+    {
+      "date": "2024-05-12",
+      "leads": 14,
+      "sits": 4,
+      "sold": 7,
+      "bookedRevenue": 40000.0
+    },
+    {
+      "date": "2024-05-13",
+      "leads": 117,
+      "sits": 110,
+      "sold": 87,
+      "bookedRevenue": 866218.2
+    },
+    {
+      "date": "2024-05-14",
+      "leads": 54,
+      "sits": 66,
+      "sold": 44,
+      "bookedRevenue": 393144.86
+    },
+    {
+      "date": "2024-05-15",
+      "leads": 54,
+      "sits": 57,
+      "sold": 35,
+      "bookedRevenue": 241888.39
+    },
+    {
+      "date": "2024-05-16",
+      "leads": 46,
+      "sits": 56,
+      "sold": 42,
+      "bookedRevenue": 378949.5
+    },
+    {
+      "date": "2024-05-17",
+      "leads": 11,
+      "sits": 15,
+      "sold": 19,
+      "bookedRevenue": 168108.51
+    },
+    {
+      "date": "2024-05-18",
+      "leads": 17,
+      "sits": 22,
+      "sold": 33,
+      "bookedRevenue": 354577.39
+    },
+    {
+      "date": "2024-05-19",
+      "leads": 5,
+      "sits": 4,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2024-05-20",
+      "leads": 72,
+      "sits": 46,
+      "sold": 42,
+      "bookedRevenue": 508742.49
+    },
+    {
+      "date": "2024-05-21",
+      "leads": 56,
+      "sits": 51,
+      "sold": 53,
+      "bookedRevenue": 571990.12
+    },
+    {
+      "date": "2024-05-22",
+      "leads": 59,
+      "sits": 54,
+      "sold": 70,
+      "bookedRevenue": 929609.89
+    },
+    {
+      "date": "2024-05-23",
+      "leads": 66,
+      "sits": 63,
+      "sold": 66,
+      "bookedRevenue": 768989.3
+    },
+    {
+      "date": "2024-05-24",
+      "leads": 29,
+      "sits": 43,
+      "sold": 32,
+      "bookedRevenue": 489293.17
+    },
+    {
+      "date": "2024-05-25",
+      "leads": 18,
+      "sits": 14,
+      "sold": 40,
+      "bookedRevenue": 558121.09
+    },
+    {
+      "date": "2024-05-26",
+      "leads": 20,
+      "sits": 12,
+      "sold": 4,
+      "bookedRevenue": 25000.0
+    },
+    {
+      "date": "2024-05-27",
+      "leads": 7,
+      "sits": 2,
+      "sold": 2,
+      "bookedRevenue": 21800.0
+    },
+    {
+      "date": "2024-05-28",
+      "leads": 85,
+      "sits": 50,
+      "sold": 44,
+      "bookedRevenue": 553003.79
+    },
+    {
+      "date": "2024-05-29",
+      "leads": 44,
+      "sits": 50,
+      "sold": 43,
+      "bookedRevenue": 527191.35
+    },
+    {
+      "date": "2024-05-30",
+      "leads": 40,
+      "sits": 44,
+      "sold": 46,
+      "bookedRevenue": 556388.37
+    },
+    {
+      "date": "2024-05-31",
+      "leads": 48,
+      "sits": 43,
+      "sold": 25,
+      "bookedRevenue": 294343.78
+    },
+    {
+      "date": "2024-06-01",
+      "leads": 16,
+      "sits": 12,
+      "sold": 61,
+      "bookedRevenue": 735673.15
+    },
+    {
+      "date": "2024-06-02",
+      "leads": 9,
+      "sits": 0,
+      "sold": 2,
+      "bookedRevenue": 53845.18
+    },
+    {
+      "date": "2024-06-03",
+      "leads": 58,
+      "sits": 55,
+      "sold": 46,
+      "bookedRevenue": 645068.73
+    },
+    {
+      "date": "2024-06-04",
+      "leads": 65,
+      "sits": 48,
+      "sold": 47,
+      "bookedRevenue": 633789.58
+    },
+    {
+      "date": "2024-06-05",
+      "leads": 50,
+      "sits": 45,
+      "sold": 48,
+      "bookedRevenue": 607004.31
+    },
+    {
+      "date": "2024-06-06",
+      "leads": 64,
+      "sits": 47,
+      "sold": 57,
+      "bookedRevenue": 694298.21
+    },
+    {
+      "date": "2024-06-07",
+      "leads": 44,
+      "sits": 43,
+      "sold": 51,
+      "bookedRevenue": 502092.62
+    },
+    {
+      "date": "2024-06-08",
+      "leads": 12,
+      "sits": 6,
+      "sold": 9,
+      "bookedRevenue": 160613.54
+    },
+    {
+      "date": "2024-06-09",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2024-06-10",
+      "leads": 59,
+      "sits": 53,
+      "sold": 61,
+      "bookedRevenue": 657500.4
+    },
+    {
+      "date": "2024-06-11",
+      "leads": 60,
+      "sits": 38,
+      "sold": 64,
+      "bookedRevenue": 743703.99
+    },
+    {
+      "date": "2024-06-12",
+      "leads": 64,
+      "sits": 46,
+      "sold": 61,
+      "bookedRevenue": 704726.34
+    },
+    {
+      "date": "2024-06-13",
+      "leads": 54,
+      "sits": 48,
+      "sold": 81,
+      "bookedRevenue": 837036.16
+    },
+    {
+      "date": "2024-06-14",
+      "leads": 39,
+      "sits": 44,
+      "sold": 35,
+      "bookedRevenue": 376050.65
+    },
+    {
+      "date": "2024-06-15",
+      "leads": 3,
+      "sits": 4,
+      "sold": 3,
+      "bookedRevenue": 37009.96
+    },
+    {
+      "date": "2024-06-16",
+      "leads": 2,
+      "sits": 0,
+      "sold": 2,
+      "bookedRevenue": 25196.43
+    },
+    {
+      "date": "2024-06-17",
+      "leads": 62,
+      "sits": 39,
+      "sold": 53,
+      "bookedRevenue": 783827.58
+    },
+    {
+      "date": "2024-06-18",
+      "leads": 52,
+      "sits": 38,
+      "sold": 47,
+      "bookedRevenue": 657496.45
+    },
+    {
+      "date": "2024-06-19",
+      "leads": 35,
+      "sits": 44,
+      "sold": 55,
+      "bookedRevenue": 639180.12
+    },
+    {
+      "date": "2024-06-20",
+      "leads": 41,
+      "sits": 43,
+      "sold": 35,
+      "bookedRevenue": 570210.42
+    },
+    {
+      "date": "2024-06-21",
+      "leads": 33,
+      "sits": 24,
+      "sold": 32,
+      "bookedRevenue": 490947.05
+    },
+    {
+      "date": "2024-06-22",
+      "leads": 10,
+      "sits": 2,
+      "sold": 4,
+      "bookedRevenue": 65970.66
+    },
+    {
+      "date": "2024-06-23",
+      "leads": 4,
+      "sits": 0,
+      "sold": 2,
+      "bookedRevenue": 21507.0
+    },
+    {
+      "date": "2024-06-24",
+      "leads": 72,
+      "sits": 51,
+      "sold": 30,
+      "bookedRevenue": 570158.03
+    },
+    {
+      "date": "2024-06-25",
+      "leads": 50,
+      "sits": 41,
+      "sold": 24,
+      "bookedRevenue": 341199.36
+    },
+    {
+      "date": "2024-06-26",
+      "leads": 45,
+      "sits": 47,
+      "sold": 26,
+      "bookedRevenue": 319128.17
+    },
+    {
+      "date": "2024-06-27",
+      "leads": 36,
+      "sits": 44,
+      "sold": 15,
+      "bookedRevenue": 174451.76
+    },
+    {
+      "date": "2024-06-28",
+      "leads": 31,
+      "sits": 33,
+      "sold": 19,
+      "bookedRevenue": 230611.0
+    },
+    {
+      "date": "2024-06-29",
+      "leads": 13,
+      "sits": 7,
+      "sold": 2,
+      "bookedRevenue": 54000.0
+    },
+    {
+      "date": "2024-06-30",
+      "leads": 4,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2024-07-01",
+      "leads": 51,
+      "sits": 55,
+      "sold": 194,
+      "bookedRevenue": 2577808.83
+    },
+    {
+      "date": "2024-07-02",
+      "leads": 58,
+      "sits": 39,
+      "sold": 67,
+      "bookedRevenue": 784198.97
+    },
+    {
+      "date": "2024-07-03",
+      "leads": 20,
+      "sits": 44,
+      "sold": 68,
+      "bookedRevenue": 824871.7
+    },
+    {
+      "date": "2024-07-04",
+      "leads": 17,
+      "sits": 0,
+      "sold": 2,
+      "bookedRevenue": 31959.3
+    },
+    {
+      "date": "2024-07-05",
+      "leads": 7,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2024-07-06",
+      "leads": 7,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2024-07-07",
+      "leads": 14,
+      "sits": 0,
+      "sold": 10,
+      "bookedRevenue": 136394.14
+    },
+    {
+      "date": "2024-07-08",
+      "leads": 54,
+      "sits": 47,
+      "sold": 55,
+      "bookedRevenue": 757788.02
+    },
+    {
+      "date": "2024-07-09",
+      "leads": 49,
+      "sits": 45,
+      "sold": 48,
+      "bookedRevenue": 637621.34
+    },
+    {
+      "date": "2024-07-10",
+      "leads": 46,
+      "sits": 43,
+      "sold": 53,
+      "bookedRevenue": 554137.36
+    },
+    {
+      "date": "2024-07-11",
+      "leads": 41,
+      "sits": 47,
+      "sold": 56,
+      "bookedRevenue": 771959.53
+    },
+    {
+      "date": "2024-07-12",
+      "leads": 27,
+      "sits": 14,
+      "sold": 28,
+      "bookedRevenue": 438735.42
+    },
+    {
+      "date": "2024-07-13",
+      "leads": 10,
+      "sits": 8,
+      "sold": 6,
+      "bookedRevenue": 60857.7
+    },
+    {
+      "date": "2024-07-14",
+      "leads": 6,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2024-07-15",
+      "leads": 66,
+      "sits": 51,
+      "sold": 48,
+      "bookedRevenue": 559920.76
+    },
+    {
+      "date": "2024-07-16",
+      "leads": 48,
+      "sits": 56,
+      "sold": 40,
+      "bookedRevenue": 445926.33
+    },
+    {
+      "date": "2024-07-17",
+      "leads": 45,
+      "sits": 43,
+      "sold": 45,
+      "bookedRevenue": 708782.79
+    },
+    {
+      "date": "2024-07-18",
+      "leads": 55,
+      "sits": 52,
+      "sold": 53,
+      "bookedRevenue": 572969.62
+    },
+    {
+      "date": "2024-07-19",
+      "leads": 37,
+      "sits": 37,
+      "sold": 49,
+      "bookedRevenue": 692187.62
+    },
+    {
+      "date": "2024-07-20",
+      "leads": 11,
+      "sits": 6,
+      "sold": 8,
+      "bookedRevenue": 90846.29
+    },
+    {
+      "date": "2024-07-21",
+      "leads": 4,
+      "sits": 0,
+      "sold": 2,
+      "bookedRevenue": 11927.23
+    },
+    {
+      "date": "2024-07-22",
+      "leads": 45,
+      "sits": 41,
+      "sold": 41,
+      "bookedRevenue": 583358.08
+    },
+    {
+      "date": "2024-07-23",
+      "leads": 51,
+      "sits": 51,
+      "sold": 56,
+      "bookedRevenue": 605560.4
+    },
+    {
+      "date": "2024-07-24",
+      "leads": 34,
+      "sits": 38,
+      "sold": 35,
+      "bookedRevenue": 509209.09
+    },
+    {
+      "date": "2024-07-25",
+      "leads": 38,
+      "sits": 41,
+      "sold": 30,
+      "bookedRevenue": 339941.81
+    },
+    {
+      "date": "2024-07-26",
+      "leads": 33,
+      "sits": 23,
+      "sold": 21,
+      "bookedRevenue": 291243.0
+    },
+    {
+      "date": "2024-07-27",
+      "leads": 6,
+      "sits": 2,
+      "sold": 1,
+      "bookedRevenue": 20000.0
+    },
+    {
+      "date": "2024-07-28",
+      "leads": 12,
+      "sits": 2,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2024-07-29",
+      "leads": 52,
+      "sits": 52,
+      "sold": 28,
+      "bookedRevenue": 213150.0
+    },
+    {
+      "date": "2024-07-30",
+      "leads": 18,
+      "sits": 37,
+      "sold": 23,
+      "bookedRevenue": 316379.15
+    },
+    {
+      "date": "2024-07-31",
+      "leads": 39,
+      "sits": 50,
+      "sold": 27,
+      "bookedRevenue": 413880.35
+    },
+    {
+      "date": "2024-08-01",
+      "leads": 43,
+      "sits": 36,
+      "sold": 161,
+      "bookedRevenue": 2285102.34
+    },
+    {
+      "date": "2024-08-02",
+      "leads": 45,
+      "sits": 35,
+      "sold": 30,
+      "bookedRevenue": 443452.59
+    },
+    {
+      "date": "2024-08-03",
+      "leads": 13,
+      "sits": 8,
+      "sold": 15,
+      "bookedRevenue": 246570.06
+    },
+    {
+      "date": "2024-08-04",
+      "leads": 6,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2024-08-05",
+      "leads": 50,
+      "sits": 39,
+      "sold": 47,
+      "bookedRevenue": 915689.6
+    },
+    {
+      "date": "2024-08-06",
+      "leads": 53,
+      "sits": 36,
+      "sold": 40,
+      "bookedRevenue": 491230.94
+    },
+    {
+      "date": "2024-08-07",
+      "leads": 36,
+      "sits": 44,
+      "sold": 46,
+      "bookedRevenue": 850282.97
+    },
+    {
+      "date": "2024-08-08",
+      "leads": 37,
+      "sits": 45,
+      "sold": 87,
+      "bookedRevenue": 1296591.67
+    },
+    {
+      "date": "2024-08-09",
+      "leads": 47,
+      "sits": 39,
+      "sold": 34,
+      "bookedRevenue": 411589.39
+    },
+    {
+      "date": "2024-08-10",
+      "leads": 7,
+      "sits": 4,
+      "sold": 3,
+      "bookedRevenue": 47300.0
+    },
+    {
+      "date": "2024-08-11",
+      "leads": 5,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2024-08-12",
+      "leads": 41,
+      "sits": 49,
+      "sold": 39,
+      "bookedRevenue": 489384.96
+    },
+    {
+      "date": "2024-08-13",
+      "leads": 38,
+      "sits": 45,
+      "sold": 42,
+      "bookedRevenue": 517746.81
+    },
+    {
+      "date": "2024-08-14",
+      "leads": 33,
+      "sits": 54,
+      "sold": 47,
+      "bookedRevenue": 897740.01
+    },
+    {
+      "date": "2024-08-15",
+      "leads": 48,
+      "sits": 34,
+      "sold": 40,
+      "bookedRevenue": 755291.04
+    },
+    {
+      "date": "2024-08-16",
+      "leads": 21,
+      "sits": 41,
+      "sold": 29,
+      "bookedRevenue": 356766.6
+    },
+    {
+      "date": "2024-08-17",
+      "leads": 10,
+      "sits": 7,
+      "sold": 9,
+      "bookedRevenue": 81532.0
+    },
+    {
+      "date": "2024-08-18",
+      "leads": 11,
+      "sits": 0,
+      "sold": 5,
+      "bookedRevenue": 108234.0
+    },
+    {
+      "date": "2024-08-19",
+      "leads": 35,
+      "sits": 36,
+      "sold": 51,
+      "bookedRevenue": 643470.96
+    },
+    {
+      "date": "2024-08-20",
+      "leads": 24,
+      "sits": 36,
+      "sold": 42,
+      "bookedRevenue": 585647.72
+    },
+    {
+      "date": "2024-08-21",
+      "leads": 39,
+      "sits": 36,
+      "sold": 30,
+      "bookedRevenue": 445092.63
+    },
+    {
+      "date": "2024-08-22",
+      "leads": 40,
+      "sits": 35,
+      "sold": 40,
+      "bookedRevenue": 490566.97
+    },
+    {
+      "date": "2024-08-23",
+      "leads": 26,
+      "sits": 27,
+      "sold": 41,
+      "bookedRevenue": 910909.87
+    },
+    {
+      "date": "2024-08-24",
+      "leads": 4,
+      "sits": 4,
+      "sold": 5,
+      "bookedRevenue": 49706.97
+    },
+    {
+      "date": "2024-08-25",
+      "leads": 8,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2024-08-26",
+      "leads": 39,
+      "sits": 37,
+      "sold": 38,
+      "bookedRevenue": 510573.23
+    },
+    {
+      "date": "2024-08-27",
+      "leads": 33,
+      "sits": 45,
+      "sold": 28,
+      "bookedRevenue": 273957.6
+    },
+    {
+      "date": "2024-08-28",
+      "leads": 38,
+      "sits": 36,
+      "sold": 40,
+      "bookedRevenue": 528743.7
+    },
+    {
+      "date": "2024-08-29",
+      "leads": 37,
+      "sits": 39,
+      "sold": 21,
+      "bookedRevenue": 242291.36
+    },
+    {
+      "date": "2024-08-30",
+      "leads": 36,
+      "sits": 37,
+      "sold": 24,
+      "bookedRevenue": 171189.14
+    },
+    {
+      "date": "2024-08-31",
+      "leads": 12,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2024-09-01",
+      "leads": 3,
+      "sits": 1,
+      "sold": 73,
+      "bookedRevenue": 1050280.79
+    },
+    {
+      "date": "2024-09-02",
+      "leads": 10,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2024-09-03",
+      "leads": 35,
+      "sits": 40,
+      "sold": 35,
+      "bookedRevenue": 454862.08
+    },
+    {
+      "date": "2024-09-04",
+      "leads": 31,
+      "sits": 40,
+      "sold": 40,
+      "bookedRevenue": 523141.62
+    },
+    {
+      "date": "2024-09-05",
+      "leads": 30,
+      "sits": 45,
+      "sold": 44,
+      "bookedRevenue": 588831.9
+    },
+    {
+      "date": "2024-09-06",
+      "leads": 34,
+      "sits": 35,
+      "sold": 41,
+      "bookedRevenue": 565715.84
+    },
+    {
+      "date": "2024-09-07",
+      "leads": 8,
+      "sits": 5,
+      "sold": 5,
+      "bookedRevenue": 65763.16
+    },
+    {
+      "date": "2024-09-08",
+      "leads": 3,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2024-09-09",
+      "leads": 45,
+      "sits": 32,
+      "sold": 45,
+      "bookedRevenue": 569298.17
+    },
+    {
+      "date": "2024-09-10",
+      "leads": 31,
+      "sits": 42,
+      "sold": 32,
+      "bookedRevenue": 394615.13
+    },
+    {
+      "date": "2024-09-11",
+      "leads": 25,
+      "sits": 28,
+      "sold": 26,
+      "bookedRevenue": 281293.49
+    },
+    {
+      "date": "2024-09-12",
+      "leads": 30,
+      "sits": 37,
+      "sold": 42,
+      "bookedRevenue": 461758.52
+    },
+    {
+      "date": "2024-09-13",
+      "leads": 33,
+      "sits": 26,
+      "sold": 45,
+      "bookedRevenue": 623679.97
+    },
+    {
+      "date": "2024-09-14",
+      "leads": 6,
+      "sits": 4,
+      "sold": 7,
+      "bookedRevenue": 102293.03
+    },
+    {
+      "date": "2024-09-15",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2024-09-16",
+      "leads": 45,
+      "sits": 33,
+      "sold": 53,
+      "bookedRevenue": 794898.45
+    },
+    {
+      "date": "2024-09-17",
+      "leads": 32,
+      "sits": 31,
+      "sold": 31,
+      "bookedRevenue": 435729.09
+    },
+    {
+      "date": "2024-09-18",
+      "leads": 29,
+      "sits": 28,
+      "sold": 27,
+      "bookedRevenue": 375119.42
+    },
+    {
+      "date": "2024-09-19",
+      "leads": 32,
+      "sits": 47,
+      "sold": 39,
+      "bookedRevenue": 451039.19
+    },
+    {
+      "date": "2024-09-20",
+      "leads": 22,
+      "sits": 27,
+      "sold": 24,
+      "bookedRevenue": 361688.58
+    },
+    {
+      "date": "2024-09-21",
+      "leads": 2,
+      "sits": 4,
+      "sold": 4,
+      "bookedRevenue": 34000.0
+    },
+    {
+      "date": "2024-09-22",
+      "leads": 6,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2024-09-23",
+      "leads": 42,
+      "sits": 35,
+      "sold": 40,
+      "bookedRevenue": 481376.39
+    },
+    {
+      "date": "2024-09-24",
+      "leads": 30,
+      "sits": 39,
+      "sold": 36,
+      "bookedRevenue": 410187.91
+    },
+    {
+      "date": "2024-09-25",
+      "leads": 30,
+      "sits": 32,
+      "sold": 37,
+      "bookedRevenue": 498627.11
+    },
+    {
+      "date": "2024-09-26",
+      "leads": 31,
+      "sits": 38,
+      "sold": 41,
+      "bookedRevenue": 428083.08
+    },
+    {
+      "date": "2024-09-27",
+      "leads": 27,
+      "sits": 32,
+      "sold": 17,
+      "bookedRevenue": 279930.01
+    },
+    {
+      "date": "2024-09-28",
+      "leads": 3,
+      "sits": 3,
+      "sold": 11,
+      "bookedRevenue": 196522.34
+    },
+    {
+      "date": "2024-09-29",
+      "leads": 8,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2024-09-30",
+      "leads": 39,
+      "sits": 38,
+      "sold": 32,
+      "bookedRevenue": 613900.17
+    },
+    {
+      "date": "2024-10-01",
+      "leads": 24,
+      "sits": 30,
+      "sold": 33,
+      "bookedRevenue": 372568.03
+    },
+    {
+      "date": "2024-10-02",
+      "leads": 26,
+      "sits": 33,
+      "sold": 35,
+      "bookedRevenue": 437124.73
+    },
+    {
+      "date": "2024-10-03",
+      "leads": 33,
+      "sits": 33,
+      "sold": 48,
+      "bookedRevenue": 589526.43
+    },
+    {
+      "date": "2024-10-04",
+      "leads": 28,
+      "sits": 30,
+      "sold": 32,
+      "bookedRevenue": 285135.71
+    },
+    {
+      "date": "2024-10-05",
+      "leads": 6,
+      "sits": 5,
+      "sold": 11,
+      "bookedRevenue": 200063.0
+    },
+    {
+      "date": "2024-10-06",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2024-10-07",
+      "leads": 23,
+      "sits": 33,
+      "sold": 32,
+      "bookedRevenue": 346326.59
+    },
+    {
+      "date": "2024-10-08",
+      "leads": 26,
+      "sits": 28,
+      "sold": 32,
+      "bookedRevenue": 366169.58
+    },
+    {
+      "date": "2024-10-09",
+      "leads": 27,
+      "sits": 31,
+      "sold": 46,
+      "bookedRevenue": 429808.49
+    },
+    {
+      "date": "2024-10-10",
+      "leads": 12,
+      "sits": 23,
+      "sold": 21,
+      "bookedRevenue": 244106.12
+    },
+    {
+      "date": "2024-10-11",
+      "leads": 8,
+      "sits": 11,
+      "sold": 15,
+      "bookedRevenue": 170073.53
+    },
+    {
+      "date": "2024-10-12",
+      "leads": 2,
+      "sits": 9,
+      "sold": 3,
+      "bookedRevenue": 43727.0
+    },
+    {
+      "date": "2024-10-13",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2024-10-14",
+      "leads": 21,
+      "sits": 15,
+      "sold": 18,
+      "bookedRevenue": 197594.22
+    },
+    {
+      "date": "2024-10-15",
+      "leads": 16,
+      "sits": 20,
+      "sold": 25,
+      "bookedRevenue": 254604.62
+    },
+    {
+      "date": "2024-10-16",
+      "leads": 12,
+      "sits": 18,
+      "sold": 13,
+      "bookedRevenue": 280035.5
+    },
+    {
+      "date": "2024-10-17",
+      "leads": 10,
+      "sits": 12,
+      "sold": 16,
+      "bookedRevenue": 140648.16
+    },
+    {
+      "date": "2024-10-18",
+      "leads": 15,
+      "sits": 6,
+      "sold": 14,
+      "bookedRevenue": 173065.71
+    },
+    {
+      "date": "2024-10-19",
+      "leads": 3,
+      "sits": 0,
+      "sold": 4,
+      "bookedRevenue": 18621.4
+    },
+    {
+      "date": "2024-10-20",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2024-10-21",
+      "leads": 20,
+      "sits": 19,
+      "sold": 13,
+      "bookedRevenue": 123700.95
+    },
+    {
+      "date": "2024-10-22",
+      "leads": 13,
+      "sits": 12,
+      "sold": 11,
+      "bookedRevenue": 116497.02
+    },
+    {
+      "date": "2024-10-23",
+      "leads": 17,
+      "sits": 20,
+      "sold": 13,
+      "bookedRevenue": 148108.61
+    },
+    {
+      "date": "2024-10-24",
+      "leads": 16,
+      "sits": 18,
+      "sold": 31,
+      "bookedRevenue": 382639.69
+    },
+    {
+      "date": "2024-10-25",
+      "leads": 10,
+      "sits": 14,
+      "sold": 15,
+      "bookedRevenue": 193960.74
+    },
+    {
+      "date": "2024-10-26",
+      "leads": 3,
+      "sits": 1,
+      "sold": 2,
+      "bookedRevenue": 25759.0
+    },
+    {
+      "date": "2024-10-27",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2024-10-28",
+      "leads": 14,
+      "sits": 15,
+      "sold": 12,
+      "bookedRevenue": 207499.85
+    },
+    {
+      "date": "2024-10-29",
+      "leads": 7,
+      "sits": 10,
+      "sold": 7,
+      "bookedRevenue": 53791.92
+    },
+    {
+      "date": "2024-10-30",
+      "leads": 9,
+      "sits": 11,
+      "sold": 11,
+      "bookedRevenue": 136399.62
+    },
+    {
+      "date": "2024-10-31",
+      "leads": 11,
+      "sits": 8,
+      "sold": 5,
+      "bookedRevenue": 45312.28
+    },
+    {
+      "date": "2024-11-01",
+      "leads": 10,
+      "sits": 21,
+      "sold": 20,
+      "bookedRevenue": 285737.28
+    },
+    {
+      "date": "2024-11-02",
+      "leads": 5,
+      "sits": 3,
+      "sold": 8,
+      "bookedRevenue": 95148.58
+    },
+    {
+      "date": "2024-11-04",
+      "leads": 17,
+      "sits": 8,
+      "sold": 19,
+      "bookedRevenue": 226532.16
+    },
+    {
+      "date": "2024-11-05",
+      "leads": 7,
+      "sits": 11,
+      "sold": 8,
+      "bookedRevenue": 110991.57
+    },
+    {
+      "date": "2024-11-06",
+      "leads": 12,
+      "sits": 15,
+      "sold": 12,
+      "bookedRevenue": 187493.26
+    },
+    {
+      "date": "2024-11-07",
+      "leads": 10,
+      "sits": 5,
+      "sold": 10,
+      "bookedRevenue": 112943.01
+    },
+    {
+      "date": "2024-11-08",
+      "leads": 11,
+      "sits": 7,
+      "sold": 10,
+      "bookedRevenue": 172534.02
+    },
+    {
+      "date": "2024-11-09",
+      "leads": 0,
+      "sits": 2,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2024-11-10",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2024-11-11",
+      "leads": 14,
+      "sits": 14,
+      "sold": 15,
+      "bookedRevenue": 163155.58
+    },
+    {
+      "date": "2024-11-12",
+      "leads": 13,
+      "sits": 10,
+      "sold": 13,
+      "bookedRevenue": 197356.87
+    },
+    {
+      "date": "2024-11-13",
+      "leads": 12,
+      "sits": 17,
+      "sold": 12,
+      "bookedRevenue": 161402.89
+    },
+    {
+      "date": "2024-11-14",
+      "leads": 16,
+      "sits": 18,
+      "sold": 20,
+      "bookedRevenue": 300035.93
+    },
+    {
+      "date": "2024-11-15",
+      "leads": 9,
+      "sits": 17,
+      "sold": 5,
+      "bookedRevenue": 23594.42
+    },
+    {
+      "date": "2024-11-16",
+      "leads": 3,
+      "sits": 0,
+      "sold": 1,
+      "bookedRevenue": 2500.0
+    },
+    {
+      "date": "2024-11-18",
+      "leads": 14,
+      "sits": 15,
+      "sold": 12,
+      "bookedRevenue": 100569.5
+    },
+    {
+      "date": "2024-11-19",
+      "leads": 11,
+      "sits": 14,
+      "sold": 19,
+      "bookedRevenue": 116867.63
+    },
+    {
+      "date": "2024-11-20",
+      "leads": 14,
+      "sits": 13,
+      "sold": 8,
+      "bookedRevenue": 56677.36
+    },
+    {
+      "date": "2024-11-21",
+      "leads": 8,
+      "sits": 7,
+      "sold": 13,
+      "bookedRevenue": 157801.87
+    },
+    {
+      "date": "2024-11-22",
+      "leads": 8,
+      "sits": 8,
+      "sold": 11,
+      "bookedRevenue": 138240.58
+    },
+    {
+      "date": "2024-11-23",
+      "leads": 3,
+      "sits": 3,
+      "sold": 6,
+      "bookedRevenue": 95462.12
+    },
+    {
+      "date": "2024-11-24",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2024-11-25",
+      "leads": 7,
+      "sits": 10,
+      "sold": 18,
+      "bookedRevenue": 234199.48
+    },
+    {
+      "date": "2024-11-26",
+      "leads": 16,
+      "sits": 10,
+      "sold": 17,
+      "bookedRevenue": 244092.9
+    },
+    {
+      "date": "2024-11-27",
+      "leads": 6,
+      "sits": 15,
+      "sold": 16,
+      "bookedRevenue": 173216.25
+    },
+    {
+      "date": "2024-11-28",
+      "leads": 3,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2024-11-29",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2024-11-30",
+      "leads": 3,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2024-12-01",
+      "leads": 1,
+      "sits": 0,
+      "sold": 2,
+      "bookedRevenue": 105499.11
+    },
+    {
+      "date": "2024-12-02",
+      "leads": 5,
+      "sits": 4,
+      "sold": 2,
+      "bookedRevenue": 18708.0
+    },
+    {
+      "date": "2024-12-03",
+      "leads": 8,
+      "sits": 11,
+      "sold": 9,
+      "bookedRevenue": 78784.15
+    },
+    {
+      "date": "2024-12-04",
+      "leads": 0,
+      "sits": 6,
+      "sold": 5,
+      "bookedRevenue": 26605.97
+    },
+    {
+      "date": "2024-12-05",
+      "leads": 8,
+      "sits": 4,
+      "sold": 9,
+      "bookedRevenue": 91753.13
+    },
+    {
+      "date": "2024-12-06",
+      "leads": 4,
+      "sits": 10,
+      "sold": 9,
+      "bookedRevenue": 171425.59
+    },
+    {
+      "date": "2024-12-09",
+      "leads": 11,
+      "sits": 13,
+      "sold": 8,
+      "bookedRevenue": 70826.37
+    },
+    {
+      "date": "2024-12-10",
+      "leads": 7,
+      "sits": 6,
+      "sold": 12,
+      "bookedRevenue": 208367.37
+    },
+    {
+      "date": "2024-12-11",
+      "leads": 8,
+      "sits": 5,
+      "sold": 16,
+      "bookedRevenue": 278221.02
+    },
+    {
+      "date": "2024-12-12",
+      "leads": 5,
+      "sits": 7,
+      "sold": 8,
+      "bookedRevenue": 153654.34
+    },
+    {
+      "date": "2024-12-13",
+      "leads": 10,
+      "sits": 4,
+      "sold": 13,
+      "bookedRevenue": 172061.04
+    },
+    {
+      "date": "2024-12-14",
+      "leads": 3,
+      "sits": 0,
+      "sold": 4,
+      "bookedRevenue": 46094.13
+    },
+    {
+      "date": "2024-12-16",
+      "leads": 2,
+      "sits": 9,
+      "sold": 3,
+      "bookedRevenue": 23737.59
+    },
+    {
+      "date": "2024-12-17",
+      "leads": 5,
+      "sits": 4,
+      "sold": 3,
+      "bookedRevenue": 56112.74
+    },
+    {
+      "date": "2024-12-18",
+      "leads": 7,
+      "sits": 4,
+      "sold": 8,
+      "bookedRevenue": 124991.64
+    },
+    {
+      "date": "2024-12-19",
+      "leads": 2,
+      "sits": 4,
+      "sold": 2,
+      "bookedRevenue": 21076.0
+    },
+    {
+      "date": "2024-12-20",
+      "leads": 4,
+      "sits": 3,
+      "sold": 5,
+      "bookedRevenue": 97186.89
+    },
+    {
+      "date": "2024-12-21",
+      "leads": 1,
+      "sits": 0,
+      "sold": 1,
+      "bookedRevenue": 9300.0
+    },
+    {
+      "date": "2024-12-23",
+      "leads": 7,
+      "sits": 2,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2024-12-24",
+      "leads": 0,
+      "sits": 0,
+      "sold": 1,
+      "bookedRevenue": 1589.59
+    },
+    {
+      "date": "2024-12-26",
+      "leads": 3,
+      "sits": 3,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2024-12-27",
+      "leads": 3,
+      "sits": 5,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2024-12-29",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2024-12-30",
+      "leads": 4,
+      "sits": 4,
+      "sold": 1,
+      "bookedRevenue": 2650.0
+    },
+    {
+      "date": "2024-12-31",
+      "leads": 2,
+      "sits": 5,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-01-01",
+      "leads": 0,
+      "sits": 1,
+      "sold": 34,
+      "bookedRevenue": 444170.06
+    },
+    {
+      "date": "2025-01-02",
+      "leads": 10,
+      "sits": 2,
+      "sold": 4,
+      "bookedRevenue": 62466.17
+    },
+    {
+      "date": "2025-01-03",
+      "leads": 5,
+      "sits": 5,
+      "sold": 7,
+      "bookedRevenue": 145056.96
+    },
+    {
+      "date": "2025-01-04",
+      "leads": 0,
+      "sits": 4,
+      "sold": 1,
+      "bookedRevenue": 10913.12
+    },
+    {
+      "date": "2025-01-05",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-01-06",
+      "leads": 5,
+      "sits": 5,
+      "sold": 5,
+      "bookedRevenue": 50103.95
+    },
+    {
+      "date": "2025-01-07",
+      "leads": 3,
+      "sits": 4,
+      "sold": 3,
+      "bookedRevenue": 54816.9
+    },
+    {
+      "date": "2025-01-08",
+      "leads": 1,
+      "sits": 3,
+      "sold": 7,
+      "bookedRevenue": 173000.0
+    },
+    {
+      "date": "2025-01-09",
+      "leads": 9,
+      "sits": 2,
+      "sold": 1,
+      "bookedRevenue": 8386.0
+    },
+    {
+      "date": "2025-01-10",
+      "leads": 4,
+      "sits": 3,
+      "sold": 1,
+      "bookedRevenue": 2534.66
+    },
+    {
+      "date": "2025-01-11",
+      "leads": 4,
+      "sits": 0,
+      "sold": 3,
+      "bookedRevenue": 58300.0
+    },
+    {
+      "date": "2025-01-12",
+      "leads": 3,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-01-13",
+      "leads": 7,
+      "sits": 2,
+      "sold": 8,
+      "bookedRevenue": 186785.72
+    },
+    {
+      "date": "2025-01-14",
+      "leads": 3,
+      "sits": 6,
+      "sold": 4,
+      "bookedRevenue": 31400.46
+    },
+    {
+      "date": "2025-01-15",
+      "leads": 1,
+      "sits": 2,
+      "sold": 1,
+      "bookedRevenue": 2427.0
+    },
+    {
+      "date": "2025-01-16",
+      "leads": 5,
+      "sits": 6,
+      "sold": 5,
+      "bookedRevenue": 148847.26
+    },
+    {
+      "date": "2025-01-17",
+      "leads": 6,
+      "sits": 4,
+      "sold": 4,
+      "bookedRevenue": 408067.3
+    },
+    {
+      "date": "2025-01-18",
+      "leads": 1,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-01-19",
+      "leads": 5,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-01-20",
+      "leads": 10,
+      "sits": 8,
+      "sold": 6,
+      "bookedRevenue": 54769.07
+    },
+    {
+      "date": "2025-01-21",
+      "leads": 8,
+      "sits": 4,
+      "sold": 10,
+      "bookedRevenue": 104103.54
+    },
+    {
+      "date": "2025-01-22",
+      "leads": 6,
+      "sits": 3,
+      "sold": 5,
+      "bookedRevenue": 36274.01
+    },
+    {
+      "date": "2025-01-23",
+      "leads": 5,
+      "sits": 4,
+      "sold": 8,
+      "bookedRevenue": 153100.79
+    },
+    {
+      "date": "2025-01-24",
+      "leads": 9,
+      "sits": 10,
+      "sold": 7,
+      "bookedRevenue": 44944.0
+    },
+    {
+      "date": "2025-01-25",
+      "leads": 1,
+      "sits": 0,
+      "sold": 2,
+      "bookedRevenue": 23267.81
+    },
+    {
+      "date": "2025-01-26",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-01-27",
+      "leads": 4,
+      "sits": 7,
+      "sold": 8,
+      "bookedRevenue": 98354.99
+    },
+    {
+      "date": "2025-01-28",
+      "leads": 10,
+      "sits": 7,
+      "sold": 8,
+      "bookedRevenue": 68548.43
+    },
+    {
+      "date": "2025-01-29",
+      "leads": 10,
+      "sits": 6,
+      "sold": 11,
+      "bookedRevenue": 235677.86
+    },
+    {
+      "date": "2025-01-30",
+      "leads": 6,
+      "sits": 8,
+      "sold": 7,
+      "bookedRevenue": 81714.41
+    },
+    {
+      "date": "2025-01-31",
+      "leads": 8,
+      "sits": 8,
+      "sold": 5,
+      "bookedRevenue": 72490.24
+    },
+    {
+      "date": "2025-02-01",
+      "leads": 3,
+      "sits": 2,
+      "sold": 11,
+      "bookedRevenue": 565322.5
+    },
+    {
+      "date": "2025-02-02",
+      "leads": 7,
+      "sits": 2,
+      "sold": 1,
+      "bookedRevenue": 5499.31
+    },
+    {
+      "date": "2025-02-03",
+      "leads": 18,
+      "sits": 6,
+      "sold": 14,
+      "bookedRevenue": 201024.8
+    },
+    {
+      "date": "2025-02-04",
+      "leads": 4,
+      "sits": 8,
+      "sold": 4,
+      "bookedRevenue": 53079.96
+    },
+    {
+      "date": "2025-02-05",
+      "leads": 5,
+      "sits": 7,
+      "sold": 4,
+      "bookedRevenue": 18600.0
+    },
+    {
+      "date": "2025-02-06",
+      "leads": 10,
+      "sits": 3,
+      "sold": 8,
+      "bookedRevenue": 85183.08
+    },
+    {
+      "date": "2025-02-07",
+      "leads": 6,
+      "sits": 4,
+      "sold": 10,
+      "bookedRevenue": 191631.94
+    },
+    {
+      "date": "2025-02-08",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-02-10",
+      "leads": 8,
+      "sits": 9,
+      "sold": 11,
+      "bookedRevenue": 532628.04
+    },
+    {
+      "date": "2025-02-11",
+      "leads": 11,
+      "sits": 6,
+      "sold": 13,
+      "bookedRevenue": 219335.09
+    },
+    {
+      "date": "2025-02-12",
+      "leads": 4,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-02-13",
+      "leads": 10,
+      "sits": 5,
+      "sold": 10,
+      "bookedRevenue": 186487.61
+    },
+    {
+      "date": "2025-02-14",
+      "leads": 7,
+      "sits": 3,
+      "sold": 7,
+      "bookedRevenue": 137537.72
+    },
+    {
+      "date": "2025-02-15",
+      "leads": 2,
+      "sits": 3,
+      "sold": 2,
+      "bookedRevenue": 20000.0
+    },
+    {
+      "date": "2025-02-16",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-02-17",
+      "leads": 17,
+      "sits": 7,
+      "sold": 11,
+      "bookedRevenue": 130744.28
+    },
+    {
+      "date": "2025-02-18",
+      "leads": 6,
+      "sits": 3,
+      "sold": 3,
+      "bookedRevenue": 37678.52
+    },
+    {
+      "date": "2025-02-19",
+      "leads": 2,
+      "sits": 7,
+      "sold": 7,
+      "bookedRevenue": 55057.74
+    },
+    {
+      "date": "2025-02-20",
+      "leads": 6,
+      "sits": 5,
+      "sold": 6,
+      "bookedRevenue": 98023.2
+    },
+    {
+      "date": "2025-02-21",
+      "leads": 5,
+      "sits": 15,
+      "sold": 11,
+      "bookedRevenue": 94261.73
+    },
+    {
+      "date": "2025-02-22",
+      "leads": 2,
+      "sits": 1,
+      "sold": 3,
+      "bookedRevenue": 52319.62
+    },
+    {
+      "date": "2025-02-23",
+      "leads": 3,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-02-24",
+      "leads": 11,
+      "sits": 17,
+      "sold": 11,
+      "bookedRevenue": 243405.95
+    },
+    {
+      "date": "2025-02-25",
+      "leads": 16,
+      "sits": 8,
+      "sold": 7,
+      "bookedRevenue": 198071.01
+    },
+    {
+      "date": "2025-02-26",
+      "leads": 20,
+      "sits": 13,
+      "sold": 25,
+      "bookedRevenue": 318994.86
+    },
+    {
+      "date": "2025-02-27",
+      "leads": 14,
+      "sits": 9,
+      "sold": 12,
+      "bookedRevenue": 123714.96
+    },
+    {
+      "date": "2025-02-28",
+      "leads": 5,
+      "sits": 3,
+      "sold": 6,
+      "bookedRevenue": 110817.64
+    },
+    {
+      "date": "2025-03-01",
+      "leads": 6,
+      "sits": 0,
+      "sold": 2,
+      "bookedRevenue": 46000.0
+    },
+    {
+      "date": "2025-03-02",
+      "leads": 5,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-03-03",
+      "leads": 17,
+      "sits": 11,
+      "sold": 12,
+      "bookedRevenue": 108452.21
+    },
+    {
+      "date": "2025-03-04",
+      "leads": 13,
+      "sits": 14,
+      "sold": 8,
+      "bookedRevenue": 187782.62
+    },
+    {
+      "date": "2025-03-05",
+      "leads": 13,
+      "sits": 10,
+      "sold": 8,
+      "bookedRevenue": 107904.87
+    },
+    {
+      "date": "2025-03-06",
+      "leads": 11,
+      "sits": 11,
+      "sold": 11,
+      "bookedRevenue": 98053.72
+    },
+    {
+      "date": "2025-03-07",
+      "leads": 22,
+      "sits": 16,
+      "sold": 12,
+      "bookedRevenue": 143214.92
+    },
+    {
+      "date": "2025-03-08",
+      "leads": 3,
+      "sits": 2,
+      "sold": 3,
+      "bookedRevenue": 40651.38
+    },
+    {
+      "date": "2025-03-09",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-03-10",
+      "leads": 17,
+      "sits": 15,
+      "sold": 20,
+      "bookedRevenue": 246778.08
+    },
+    {
+      "date": "2025-03-11",
+      "leads": 19,
+      "sits": 21,
+      "sold": 17,
+      "bookedRevenue": 279766.25
+    },
+    {
+      "date": "2025-03-12",
+      "leads": 16,
+      "sits": 16,
+      "sold": 15,
+      "bookedRevenue": 239129.47
+    },
+    {
+      "date": "2025-03-13",
+      "leads": 24,
+      "sits": 18,
+      "sold": 17,
+      "bookedRevenue": 297182.77
+    },
+    {
+      "date": "2025-03-14",
+      "leads": 11,
+      "sits": 16,
+      "sold": 19,
+      "bookedRevenue": 489634.39
+    },
+    {
+      "date": "2025-03-15",
+      "leads": 5,
+      "sits": 2,
+      "sold": 7,
+      "bookedRevenue": 185288.83
+    },
+    {
+      "date": "2025-03-16",
+      "leads": 0,
+      "sits": 0,
+      "sold": 1,
+      "bookedRevenue": 16493.52
+    },
+    {
+      "date": "2025-03-17",
+      "leads": 33,
+      "sits": 16,
+      "sold": 22,
+      "bookedRevenue": 281693.77
+    },
+    {
+      "date": "2025-03-18",
+      "leads": 25,
+      "sits": 19,
+      "sold": 19,
+      "bookedRevenue": 241213.35
+    },
+    {
+      "date": "2025-03-19",
+      "leads": 21,
+      "sits": 19,
+      "sold": 24,
+      "bookedRevenue": 272900.12
+    },
+    {
+      "date": "2025-03-20",
+      "leads": 23,
+      "sits": 17,
+      "sold": 19,
+      "bookedRevenue": 136249.02
+    },
+    {
+      "date": "2025-03-21",
+      "leads": 12,
+      "sits": 10,
+      "sold": 3,
+      "bookedRevenue": 34676.41
+    },
+    {
+      "date": "2025-03-22",
+      "leads": 8,
+      "sits": 4,
+      "sold": 9,
+      "bookedRevenue": 138094.37
+    },
+    {
+      "date": "2025-03-23",
+      "leads": 6,
+      "sits": 0,
+      "sold": 3,
+      "bookedRevenue": 56000.0
+    },
+    {
+      "date": "2025-03-24",
+      "leads": 25,
+      "sits": 28,
+      "sold": 26,
+      "bookedRevenue": 428402.82
+    },
+    {
+      "date": "2025-03-25",
+      "leads": 21,
+      "sits": 24,
+      "sold": 27,
+      "bookedRevenue": 231020.24
+    },
+    {
+      "date": "2025-03-26",
+      "leads": 17,
+      "sits": 15,
+      "sold": 10,
+      "bookedRevenue": 225444.66
+    },
+    {
+      "date": "2025-03-27",
+      "leads": 16,
+      "sits": 17,
+      "sold": 21,
+      "bookedRevenue": 216125.98
+    },
+    {
+      "date": "2025-03-28",
+      "leads": 30,
+      "sits": 18,
+      "sold": 13,
+      "bookedRevenue": 138845.4
+    },
+    {
+      "date": "2025-03-29",
+      "leads": 20,
+      "sits": 3,
+      "sold": 23,
+      "bookedRevenue": 381513.83
+    },
+    {
+      "date": "2025-03-30",
+      "leads": 3,
+      "sits": 0,
+      "sold": 3,
+      "bookedRevenue": 92276.72
+    },
+    {
+      "date": "2025-03-31",
+      "leads": 25,
+      "sits": 26,
+      "sold": 30,
+      "bookedRevenue": 364324.02
+    },
+    {
+      "date": "2025-04-01",
+      "leads": 25,
+      "sits": 24,
+      "sold": 18,
+      "bookedRevenue": 195354.29
+    },
+    {
+      "date": "2025-04-02",
+      "leads": 23,
+      "sits": 9,
+      "sold": 9,
+      "bookedRevenue": 121038.31
+    },
+    {
+      "date": "2025-04-03",
+      "leads": 21,
+      "sits": 24,
+      "sold": 26,
+      "bookedRevenue": 231140.51
+    },
+    {
+      "date": "2025-04-04",
+      "leads": 24,
+      "sits": 31,
+      "sold": 44,
+      "bookedRevenue": 630439.85
+    },
+    {
+      "date": "2025-04-05",
+      "leads": 9,
+      "sits": 7,
+      "sold": 1,
+      "bookedRevenue": 17000.0
+    },
+    {
+      "date": "2025-04-06",
+      "leads": 4,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-04-07",
+      "leads": 18,
+      "sits": 28,
+      "sold": 35,
+      "bookedRevenue": 361446.95
+    },
+    {
+      "date": "2025-04-08",
+      "leads": 16,
+      "sits": 19,
+      "sold": 19,
+      "bookedRevenue": 271932.66
+    },
+    {
+      "date": "2025-04-09",
+      "leads": 16,
+      "sits": 21,
+      "sold": 24,
+      "bookedRevenue": 278757.9
+    },
+    {
+      "date": "2025-04-10",
+      "leads": 13,
+      "sits": 23,
+      "sold": 14,
+      "bookedRevenue": 173549.66
+    },
+    {
+      "date": "2025-04-11",
+      "leads": 21,
+      "sits": 17,
+      "sold": 31,
+      "bookedRevenue": 414487.91
+    },
+    {
+      "date": "2025-04-12",
+      "leads": 4,
+      "sits": 4,
+      "sold": 5,
+      "bookedRevenue": 61221.17
+    },
+    {
+      "date": "2025-04-13",
+      "leads": 11,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-04-14",
+      "leads": 30,
+      "sits": 26,
+      "sold": 12,
+      "bookedRevenue": 131765.61
+    },
+    {
+      "date": "2025-04-15",
+      "leads": 17,
+      "sits": 16,
+      "sold": 15,
+      "bookedRevenue": 155503.84
+    },
+    {
+      "date": "2025-04-16",
+      "leads": 26,
+      "sits": 22,
+      "sold": 22,
+      "bookedRevenue": 484408.92
+    },
+    {
+      "date": "2025-04-17",
+      "leads": 25,
+      "sits": 17,
+      "sold": 32,
+      "bookedRevenue": 504004.49
+    },
+    {
+      "date": "2025-04-18",
+      "leads": 25,
+      "sits": 17,
+      "sold": 24,
+      "bookedRevenue": 403638.44
+    },
+    {
+      "date": "2025-04-19",
+      "leads": 11,
+      "sits": 10,
+      "sold": 10,
+      "bookedRevenue": 144266.52
+    },
+    {
+      "date": "2025-04-20",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-04-21",
+      "leads": 29,
+      "sits": 30,
+      "sold": 27,
+      "bookedRevenue": 376660.98
+    },
+    {
+      "date": "2025-04-22",
+      "leads": 18,
+      "sits": 22,
+      "sold": 20,
+      "bookedRevenue": 299452.58
+    },
+    {
+      "date": "2025-04-23",
+      "leads": 21,
+      "sits": 31,
+      "sold": 22,
+      "bookedRevenue": 266053.31
+    },
+    {
+      "date": "2025-04-24",
+      "leads": 16,
+      "sits": 28,
+      "sold": 19,
+      "bookedRevenue": 238090.35
+    },
+    {
+      "date": "2025-04-25",
+      "leads": 18,
+      "sits": 17,
+      "sold": 24,
+      "bookedRevenue": 284653.65
+    },
+    {
+      "date": "2025-04-26",
+      "leads": 17,
+      "sits": 6,
+      "sold": 11,
+      "bookedRevenue": 145175.79
+    },
+    {
+      "date": "2025-04-27",
+      "leads": 4,
+      "sits": 4,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-04-28",
+      "leads": 39,
+      "sits": 21,
+      "sold": 30,
+      "bookedRevenue": 498747.62
+    },
+    {
+      "date": "2025-04-29",
+      "leads": 19,
+      "sits": 26,
+      "sold": 28,
+      "bookedRevenue": 334532.15
+    },
+    {
+      "date": "2025-04-30",
+      "leads": 18,
+      "sits": 23,
+      "sold": 17,
+      "bookedRevenue": 249155.03
+    },
+    {
+      "date": "2025-05-01",
+      "leads": 15,
+      "sits": 21,
+      "sold": 25,
+      "bookedRevenue": 269817.02
+    },
+    {
+      "date": "2025-05-02",
+      "leads": 20,
+      "sits": 12,
+      "sold": 22,
+      "bookedRevenue": 200517.21
+    },
+    {
+      "date": "2025-05-03",
+      "leads": 8,
+      "sits": 6,
+      "sold": 5,
+      "bookedRevenue": 88555.59
+    },
+    {
+      "date": "2025-05-04",
+      "leads": 8,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-05-05",
+      "leads": 16,
+      "sits": 20,
+      "sold": 35,
+      "bookedRevenue": 465860.41
+    },
+    {
+      "date": "2025-05-06",
+      "leads": 30,
+      "sits": 18,
+      "sold": 14,
+      "bookedRevenue": 165756.66
+    },
+    {
+      "date": "2025-05-07",
+      "leads": 20,
+      "sits": 25,
+      "sold": 44,
+      "bookedRevenue": 483311.75
+    },
+    {
+      "date": "2025-05-08",
+      "leads": 28,
+      "sits": 21,
+      "sold": 18,
+      "bookedRevenue": 197232.81
+    },
+    {
+      "date": "2025-05-09",
+      "leads": 12,
+      "sits": 21,
+      "sold": 21,
+      "bookedRevenue": 409889.48
+    },
+    {
+      "date": "2025-05-10",
+      "leads": 9,
+      "sits": 6,
+      "sold": 13,
+      "bookedRevenue": 173518.73
+    },
+    {
+      "date": "2025-05-11",
+      "leads": 1,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-05-12",
+      "leads": 23,
+      "sits": 16,
+      "sold": 32,
+      "bookedRevenue": 618243.48
+    },
+    {
+      "date": "2025-05-13",
+      "leads": 24,
+      "sits": 24,
+      "sold": 20,
+      "bookedRevenue": 267920.03
+    },
+    {
+      "date": "2025-05-14",
+      "leads": 25,
+      "sits": 17,
+      "sold": 21,
+      "bookedRevenue": 315510.68
+    },
+    {
+      "date": "2025-05-15",
+      "leads": 16,
+      "sits": 15,
+      "sold": 18,
+      "bookedRevenue": 255699.64
+    },
+    {
+      "date": "2025-05-16",
+      "leads": 28,
+      "sits": 18,
+      "sold": 13,
+      "bookedRevenue": 186407.46
+    },
+    {
+      "date": "2025-05-17",
+      "leads": 14,
+      "sits": 5,
+      "sold": 6,
+      "bookedRevenue": 81237.82
+    },
+    {
+      "date": "2025-05-18",
+      "leads": 8,
+      "sits": 5,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-05-19",
+      "leads": 27,
+      "sits": 28,
+      "sold": 28,
+      "bookedRevenue": 412428.11
+    },
+    {
+      "date": "2025-05-20",
+      "leads": 24,
+      "sits": 19,
+      "sold": 33,
+      "bookedRevenue": 330660.29
+    },
+    {
+      "date": "2025-05-21",
+      "leads": 24,
+      "sits": 18,
+      "sold": 16,
+      "bookedRevenue": 249507.56
+    },
+    {
+      "date": "2025-05-22",
+      "leads": 20,
+      "sits": 20,
+      "sold": 23,
+      "bookedRevenue": 283481.19
+    },
+    {
+      "date": "2025-05-23",
+      "leads": 20,
+      "sits": 16,
+      "sold": 9,
+      "bookedRevenue": 147575.38
+    },
+    {
+      "date": "2025-05-24",
+      "leads": 4,
+      "sits": 4,
+      "sold": 7,
+      "bookedRevenue": 140224.91
+    },
+    {
+      "date": "2025-05-25",
+      "leads": 4,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-05-26",
+      "leads": 5,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-05-27",
+      "leads": 37,
+      "sits": 24,
+      "sold": 29,
+      "bookedRevenue": 361836.3
+    },
+    {
+      "date": "2025-05-28",
+      "leads": 33,
+      "sits": 26,
+      "sold": 25,
+      "bookedRevenue": 220141.12
+    },
+    {
+      "date": "2025-05-29",
+      "leads": 24,
+      "sits": 25,
+      "sold": 29,
+      "bookedRevenue": 326382.81
+    },
+    {
+      "date": "2025-05-30",
+      "leads": 25,
+      "sits": 21,
+      "sold": 23,
+      "bookedRevenue": 264483.74
+    },
+    {
+      "date": "2025-05-31",
+      "leads": 6,
+      "sits": 3,
+      "sold": 11,
+      "bookedRevenue": 178878.46
+    },
+    {
+      "date": "2025-06-01",
+      "leads": 3,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-06-02",
+      "leads": 30,
+      "sits": 27,
+      "sold": 32,
+      "bookedRevenue": 442932.14
+    },
+    {
+      "date": "2025-06-03",
+      "leads": 20,
+      "sits": 23,
+      "sold": 32,
+      "bookedRevenue": 447084.13
+    },
+    {
+      "date": "2025-06-04",
+      "leads": 30,
+      "sits": 25,
+      "sold": 23,
+      "bookedRevenue": 306522.56
+    },
+    {
+      "date": "2025-06-05",
+      "leads": 22,
+      "sits": 17,
+      "sold": 26,
+      "bookedRevenue": 422607.7
+    },
+    {
+      "date": "2025-06-06",
+      "leads": 21,
+      "sits": 13,
+      "sold": 14,
+      "bookedRevenue": 147342.28
+    },
+    {
+      "date": "2025-06-07",
+      "leads": 1,
+      "sits": 3,
+      "sold": 2,
+      "bookedRevenue": 21532.58
+    },
+    {
+      "date": "2025-06-08",
+      "leads": 5,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-06-09",
+      "leads": 27,
+      "sits": 24,
+      "sold": 32,
+      "bookedRevenue": 435220.49
+    },
+    {
+      "date": "2025-06-10",
+      "leads": 22,
+      "sits": 31,
+      "sold": 25,
+      "bookedRevenue": 335152.49
+    },
+    {
+      "date": "2025-06-11",
+      "leads": 19,
+      "sits": 25,
+      "sold": 14,
+      "bookedRevenue": 251317.05
+    },
+    {
+      "date": "2025-06-12",
+      "leads": 25,
+      "sits": 20,
+      "sold": 29,
+      "bookedRevenue": 275688.32
+    },
+    {
+      "date": "2025-06-13",
+      "leads": 29,
+      "sits": 13,
+      "sold": 24,
+      "bookedRevenue": 416958.95
+    },
+    {
+      "date": "2025-06-14",
+      "leads": 1,
+      "sits": 3,
+      "sold": 4,
+      "bookedRevenue": 76980.49
+    },
+    {
+      "date": "2025-06-16",
+      "leads": 23,
+      "sits": 24,
+      "sold": 22,
+      "bookedRevenue": 221596.16
+    },
+    {
+      "date": "2025-06-17",
+      "leads": 30,
+      "sits": 22,
+      "sold": 23,
+      "bookedRevenue": 243513.86
+    },
+    {
+      "date": "2025-06-18",
+      "leads": 24,
+      "sits": 18,
+      "sold": 30,
+      "bookedRevenue": 538514.42
+    },
+    {
+      "date": "2025-06-19",
+      "leads": 20,
+      "sits": 18,
+      "sold": 22,
+      "bookedRevenue": 437491.68
+    },
+    {
+      "date": "2025-06-20",
+      "leads": 21,
+      "sits": 14,
+      "sold": 14,
+      "bookedRevenue": 156992.87
+    },
+    {
+      "date": "2025-06-21",
+      "leads": 2,
+      "sits": 5,
+      "sold": 9,
+      "bookedRevenue": 114526.17
+    },
+    {
+      "date": "2025-06-22",
+      "leads": 4,
+      "sits": 0,
+      "sold": 5,
+      "bookedRevenue": 61800.0
+    },
+    {
+      "date": "2025-06-23",
+      "leads": 29,
+      "sits": 26,
+      "sold": 27,
+      "bookedRevenue": 312286.24
+    },
+    {
+      "date": "2025-06-24",
+      "leads": 28,
+      "sits": 22,
+      "sold": 26,
+      "bookedRevenue": 281112.96
+    },
+    {
+      "date": "2025-06-25",
+      "leads": 20,
+      "sits": 17,
+      "sold": 34,
+      "bookedRevenue": 361910.44
+    },
+    {
+      "date": "2025-06-26",
+      "leads": 22,
+      "sits": 22,
+      "sold": 27,
+      "bookedRevenue": 364278.56
+    },
+    {
+      "date": "2025-06-27",
+      "leads": 31,
+      "sits": 9,
+      "sold": 22,
+      "bookedRevenue": 347956.73
+    },
+    {
+      "date": "2025-06-28",
+      "leads": 4,
+      "sits": 6,
+      "sold": 17,
+      "bookedRevenue": 265026.59
+    },
+    {
+      "date": "2025-06-29",
+      "leads": 7,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-06-30",
+      "leads": 26,
+      "sits": 19,
+      "sold": 12,
+      "bookedRevenue": 125003.25
+    },
+    {
+      "date": "2025-07-01",
+      "leads": 7,
+      "sits": 17,
+      "sold": 25,
+      "bookedRevenue": 434936.95
+    },
+    {
+      "date": "2025-07-02",
+      "leads": 27,
+      "sits": 16,
+      "sold": 24,
+      "bookedRevenue": 355990.19
+    },
+    {
+      "date": "2025-07-03",
+      "leads": 9,
+      "sits": 20,
+      "sold": 17,
+      "bookedRevenue": 206980.88
+    },
+    {
+      "date": "2025-07-04",
+      "leads": 6,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-07-05",
+      "leads": 5,
+      "sits": 0,
+      "sold": 1,
+      "bookedRevenue": 15000.0
+    },
+    {
+      "date": "2025-07-06",
+      "leads": 3,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-07-07",
+      "leads": 20,
+      "sits": 11,
+      "sold": 14,
+      "bookedRevenue": 168133.88
+    },
+    {
+      "date": "2025-07-08",
+      "leads": 30,
+      "sits": 12,
+      "sold": 30,
+      "bookedRevenue": 357996.21
+    },
+    {
+      "date": "2025-07-09",
+      "leads": 13,
+      "sits": 23,
+      "sold": 15,
+      "bookedRevenue": 175138.92
+    },
+    {
+      "date": "2025-07-10",
+      "leads": 19,
+      "sits": 25,
+      "sold": 20,
+      "bookedRevenue": 349166.73
+    },
+    {
+      "date": "2025-07-11",
+      "leads": 22,
+      "sits": 20,
+      "sold": 33,
+      "bookedRevenue": 493554.22
+    },
+    {
+      "date": "2025-07-12",
+      "leads": 7,
+      "sits": 1,
+      "sold": 6,
+      "bookedRevenue": 63006.0
+    },
+    {
+      "date": "2025-07-13",
+      "leads": 5,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-07-14",
+      "leads": 38,
+      "sits": 24,
+      "sold": 30,
+      "bookedRevenue": 409291.53
+    },
+    {
+      "date": "2025-07-15",
+      "leads": 20,
+      "sits": 24,
+      "sold": 16,
+      "bookedRevenue": 714964.25
+    },
+    {
+      "date": "2025-07-16",
+      "leads": 18,
+      "sits": 16,
+      "sold": 17,
+      "bookedRevenue": 250353.49
+    },
+    {
+      "date": "2025-07-17",
+      "leads": 15,
+      "sits": 25,
+      "sold": 29,
+      "bookedRevenue": 421257.22
+    },
+    {
+      "date": "2025-07-18",
+      "leads": 24,
+      "sits": 21,
+      "sold": 21,
+      "bookedRevenue": 187473.26
+    },
+    {
+      "date": "2025-07-19",
+      "leads": 9,
+      "sits": 2,
+      "sold": 7,
+      "bookedRevenue": 93012.81
+    },
+    {
+      "date": "2025-07-21",
+      "leads": 29,
+      "sits": 28,
+      "sold": 38,
+      "bookedRevenue": 449277.58
+    },
+    {
+      "date": "2025-07-22",
+      "leads": 24,
+      "sits": 27,
+      "sold": 22,
+      "bookedRevenue": 358773.02
+    },
+    {
+      "date": "2025-07-23",
+      "leads": 13,
+      "sits": 29,
+      "sold": 20,
+      "bookedRevenue": 195392.5
+    },
+    {
+      "date": "2025-07-24",
+      "leads": 29,
+      "sits": 18,
+      "sold": 32,
+      "bookedRevenue": 512114.95
+    },
+    {
+      "date": "2025-07-25",
+      "leads": 18,
+      "sits": 9,
+      "sold": 20,
+      "bookedRevenue": 382113.23
+    },
+    {
+      "date": "2025-07-26",
+      "leads": 1,
+      "sits": 0,
+      "sold": 2,
+      "bookedRevenue": 60000.0
+    },
+    {
+      "date": "2025-07-27",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-07-28",
+      "leads": 28,
+      "sits": 34,
+      "sold": 31,
+      "bookedRevenue": 450705.78
+    },
+    {
+      "date": "2025-07-29",
+      "leads": 27,
+      "sits": 27,
+      "sold": 22,
+      "bookedRevenue": 253555.78
+    },
+    {
+      "date": "2025-07-30",
+      "leads": 20,
+      "sits": 16,
+      "sold": 2,
+      "bookedRevenue": 19110.0
+    },
+    {
+      "date": "2025-07-31",
+      "leads": 16,
+      "sits": 16,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-08-01",
+      "leads": 19,
+      "sits": 17,
+      "sold": 82,
+      "bookedRevenue": 1301920.15
+    },
+    {
+      "date": "2025-08-02",
+      "leads": 10,
+      "sits": 4,
+      "sold": 1,
+      "bookedRevenue": 14000.0
+    },
+    {
+      "date": "2025-08-03",
+      "leads": 4,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-08-04",
+      "leads": 30,
+      "sits": 25,
+      "sold": 35,
+      "bookedRevenue": 308885.89
+    },
+    {
+      "date": "2025-08-05",
+      "leads": 23,
+      "sits": 16,
+      "sold": 18,
+      "bookedRevenue": 223972.31
+    },
+    {
+      "date": "2025-08-06",
+      "leads": 23,
+      "sits": 30,
+      "sold": 28,
+      "bookedRevenue": 390278.68
+    },
+    {
+      "date": "2025-08-07",
+      "leads": 16,
+      "sits": 18,
+      "sold": 13,
+      "bookedRevenue": 150897.78
+    },
+    {
+      "date": "2025-08-08",
+      "leads": 9,
+      "sits": 7,
+      "sold": 9,
+      "bookedRevenue": 149271.48
+    },
+    {
+      "date": "2025-08-09",
+      "leads": 11,
+      "sits": 4,
+      "sold": 6,
+      "bookedRevenue": 261860.83
+    },
+    {
+      "date": "2025-08-10",
+      "leads": 11,
+      "sits": 0,
+      "sold": 7,
+      "bookedRevenue": 58730.84
+    },
+    {
+      "date": "2025-08-11",
+      "leads": 45,
+      "sits": 24,
+      "sold": 32,
+      "bookedRevenue": 334759.57
+    },
+    {
+      "date": "2025-08-12",
+      "leads": 36,
+      "sits": 18,
+      "sold": 31,
+      "bookedRevenue": 1040416.52
+    },
+    {
+      "date": "2025-08-13",
+      "leads": 31,
+      "sits": 23,
+      "sold": 19,
+      "bookedRevenue": 137564.13
+    },
+    {
+      "date": "2025-08-14",
+      "leads": 24,
+      "sits": 21,
+      "sold": 20,
+      "bookedRevenue": 240504.58
+    },
+    {
+      "date": "2025-08-15",
+      "leads": 18,
+      "sits": 17,
+      "sold": 12,
+      "bookedRevenue": 156041.24
+    },
+    {
+      "date": "2025-08-16",
+      "leads": 9,
+      "sits": 6,
+      "sold": 8,
+      "bookedRevenue": 82342.99
+    },
+    {
+      "date": "2025-08-17",
+      "leads": 3,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-08-18",
+      "leads": 29,
+      "sits": 26,
+      "sold": 36,
+      "bookedRevenue": 253017.27
+    },
+    {
+      "date": "2025-08-19",
+      "leads": 27,
+      "sits": 18,
+      "sold": 20,
+      "bookedRevenue": 314087.44
+    },
+    {
+      "date": "2025-08-20",
+      "leads": 31,
+      "sits": 27,
+      "sold": 24,
+      "bookedRevenue": 266937.88
+    },
+    {
+      "date": "2025-08-21",
+      "leads": 20,
+      "sits": 37,
+      "sold": 18,
+      "bookedRevenue": 179323.55
+    },
+    {
+      "date": "2025-08-22",
+      "leads": 17,
+      "sits": 16,
+      "sold": 36,
+      "bookedRevenue": 667096.21
+    },
+    {
+      "date": "2025-08-23",
+      "leads": 7,
+      "sits": 3,
+      "sold": 5,
+      "bookedRevenue": 75656.33
+    },
+    {
+      "date": "2025-08-24",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-08-25",
+      "leads": 20,
+      "sits": 25,
+      "sold": 11,
+      "bookedRevenue": 133428.54
+    },
+    {
+      "date": "2025-08-26",
+      "leads": 26,
+      "sits": 21,
+      "sold": 29,
+      "bookedRevenue": 406285.51
+    },
+    {
+      "date": "2025-08-27",
+      "leads": 21,
+      "sits": 29,
+      "sold": 21,
+      "bookedRevenue": 164039.42
+    },
+    {
+      "date": "2025-08-28",
+      "leads": 17,
+      "sits": 24,
+      "sold": 20,
+      "bookedRevenue": 267021.97
+    },
+    {
+      "date": "2025-08-29",
+      "leads": 32,
+      "sits": 16,
+      "sold": 26,
+      "bookedRevenue": 453365.25
+    },
+    {
+      "date": "2025-08-30",
+      "leads": 8,
+      "sits": 3,
+      "sold": 16,
+      "bookedRevenue": 149658.95
+    },
+    {
+      "date": "2025-08-31",
+      "leads": 4,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-09-01",
+      "leads": 5,
+      "sits": 1,
+      "sold": 8,
+      "bookedRevenue": 113034.0
+    },
+    {
+      "date": "2025-09-02",
+      "leads": 32,
+      "sits": 26,
+      "sold": 21,
+      "bookedRevenue": 202511.01
+    },
+    {
+      "date": "2025-09-03",
+      "leads": 20,
+      "sits": 25,
+      "sold": 33,
+      "bookedRevenue": 418459.44
+    },
+    {
+      "date": "2025-09-04",
+      "leads": 17,
+      "sits": 27,
+      "sold": 14,
+      "bookedRevenue": 120851.35
+    },
+    {
+      "date": "2025-09-05",
+      "leads": 17,
+      "sits": 24,
+      "sold": 39,
+      "bookedRevenue": 514055.1
+    },
+    {
+      "date": "2025-09-06",
+      "leads": 5,
+      "sits": 4,
+      "sold": 10,
+      "bookedRevenue": 161988.02
+    },
+    {
+      "date": "2025-09-07",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-09-08",
+      "leads": 37,
+      "sits": 24,
+      "sold": 33,
+      "bookedRevenue": 311048.27
+    },
+    {
+      "date": "2025-09-09",
+      "leads": 20,
+      "sits": 24,
+      "sold": 24,
+      "bookedRevenue": 412767.78
+    },
+    {
+      "date": "2025-09-10",
+      "leads": 13,
+      "sits": 22,
+      "sold": 25,
+      "bookedRevenue": 332306.07
+    },
+    {
+      "date": "2025-09-11",
+      "leads": 14,
+      "sits": 19,
+      "sold": 23,
+      "bookedRevenue": 358391.46
+    },
+    {
+      "date": "2025-09-12",
+      "leads": 14,
+      "sits": 13,
+      "sold": 23,
+      "bookedRevenue": 260027.98
+    },
+    {
+      "date": "2025-09-13",
+      "leads": 5,
+      "sits": 2,
+      "sold": 7,
+      "bookedRevenue": 90705.03
+    },
+    {
+      "date": "2025-09-14",
+      "leads": 4,
+      "sits": 0,
+      "sold": 2,
+      "bookedRevenue": 30815.0
+    },
+    {
+      "date": "2025-09-15",
+      "leads": 22,
+      "sits": 24,
+      "sold": 18,
+      "bookedRevenue": 458243.51
+    },
+    {
+      "date": "2025-09-16",
+      "leads": 14,
+      "sits": 12,
+      "sold": 23,
+      "bookedRevenue": 243011.34
+    },
+    {
+      "date": "2025-09-17",
+      "leads": 11,
+      "sits": 21,
+      "sold": 23,
+      "bookedRevenue": 357079.44
+    },
+    {
+      "date": "2025-09-18",
+      "leads": 27,
+      "sits": 14,
+      "sold": 26,
+      "bookedRevenue": 1074644.26
+    },
+    {
+      "date": "2025-09-19",
+      "leads": 14,
+      "sits": 5,
+      "sold": 16,
+      "bookedRevenue": 430564.14
+    },
+    {
+      "date": "2025-09-20",
+      "leads": 4,
+      "sits": 6,
+      "sold": 6,
+      "bookedRevenue": 53193.55
+    },
+    {
+      "date": "2025-09-21",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-09-22",
+      "leads": 26,
+      "sits": 27,
+      "sold": 17,
+      "bookedRevenue": 264554.69
+    },
+    {
+      "date": "2025-09-23",
+      "leads": 23,
+      "sits": 13,
+      "sold": 27,
+      "bookedRevenue": 342633.86
+    },
+    {
+      "date": "2025-09-24",
+      "leads": 21,
+      "sits": 20,
+      "sold": 23,
+      "bookedRevenue": 229145.28
+    },
+    {
+      "date": "2025-09-25",
+      "leads": 24,
+      "sits": 23,
+      "sold": 44,
+      "bookedRevenue": 581698.7
+    },
+    {
+      "date": "2025-09-26",
+      "leads": 14,
+      "sits": 15,
+      "sold": 14,
+      "bookedRevenue": 172180.96
+    },
+    {
+      "date": "2025-09-27",
+      "leads": 7,
+      "sits": 3,
+      "sold": 1,
+      "bookedRevenue": 20836.61
+    },
+    {
+      "date": "2025-09-29",
+      "leads": 27,
+      "sits": 25,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-09-30",
+      "leads": 18,
+      "sits": 15,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-10-01",
+      "leads": 20,
+      "sits": 22,
+      "sold": 73,
+      "bookedRevenue": 920660.81
+    },
+    {
+      "date": "2025-10-02",
+      "leads": 21,
+      "sits": 18,
+      "sold": 21,
+      "bookedRevenue": 238952.05
+    },
+    {
+      "date": "2025-10-03",
+      "leads": 28,
+      "sits": 17,
+      "sold": 33,
+      "bookedRevenue": 583018.28
+    },
+    {
+      "date": "2025-10-04",
+      "leads": 5,
+      "sits": 5,
+      "sold": 5,
+      "bookedRevenue": 78536.43
+    },
+    {
+      "date": "2025-10-05",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-10-06",
+      "leads": 27,
+      "sits": 31,
+      "sold": 35,
+      "bookedRevenue": 423221.57
+    },
+    {
+      "date": "2025-10-07",
+      "leads": 14,
+      "sits": 22,
+      "sold": 13,
+      "bookedRevenue": 205453.61
+    },
+    {
+      "date": "2025-10-08",
+      "leads": 8,
+      "sits": 15,
+      "sold": 17,
+      "bookedRevenue": 179459.57
+    },
+    {
+      "date": "2025-10-09",
+      "leads": 12,
+      "sits": 13,
+      "sold": 21,
+      "bookedRevenue": 277415.93
+    },
+    {
+      "date": "2025-10-10",
+      "leads": 16,
+      "sits": 21,
+      "sold": 17,
+      "bookedRevenue": 299601.5
+    },
+    {
+      "date": "2025-10-11",
+      "leads": 0,
+      "sits": 2,
+      "sold": 6,
+      "bookedRevenue": 102753.2
+    },
+    {
+      "date": "2025-10-13",
+      "leads": 34,
+      "sits": 14,
+      "sold": 39,
+      "bookedRevenue": 473158.23
+    },
+    {
+      "date": "2025-10-14",
+      "leads": 13,
+      "sits": 16,
+      "sold": 13,
+      "bookedRevenue": 103213.34
+    },
+    {
+      "date": "2025-10-15",
+      "leads": 12,
+      "sits": 17,
+      "sold": 19,
+      "bookedRevenue": 213800.88
+    },
+    {
+      "date": "2025-10-16",
+      "leads": 13,
+      "sits": 17,
+      "sold": 16,
+      "bookedRevenue": 133575.09
+    },
+    {
+      "date": "2025-10-17",
+      "leads": 18,
+      "sits": 11,
+      "sold": 15,
+      "bookedRevenue": 279725.17
+    },
+    {
+      "date": "2025-10-18",
+      "leads": 1,
+      "sits": 3,
+      "sold": 2,
+      "bookedRevenue": 22939.0
+    },
+    {
+      "date": "2025-10-19",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-10-20",
+      "leads": 27,
+      "sits": 13,
+      "sold": 22,
+      "bookedRevenue": 299676.9
+    },
+    {
+      "date": "2025-10-21",
+      "leads": 9,
+      "sits": 15,
+      "sold": 13,
+      "bookedRevenue": 113283.22
+    },
+    {
+      "date": "2025-10-22",
+      "leads": 16,
+      "sits": 15,
+      "sold": 18,
+      "bookedRevenue": 138347.04
+    },
+    {
+      "date": "2025-10-23",
+      "leads": 12,
+      "sits": 16,
+      "sold": 13,
+      "bookedRevenue": 154735.71
+    },
+    {
+      "date": "2025-10-24",
+      "leads": 33,
+      "sits": 18,
+      "sold": 40,
+      "bookedRevenue": 378583.08
+    },
+    {
+      "date": "2025-10-25",
+      "leads": 1,
+      "sits": 2,
+      "sold": 1,
+      "bookedRevenue": 3660.0
+    },
+    {
+      "date": "2025-10-26",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-10-27",
+      "leads": 9,
+      "sits": 17,
+      "sold": 9,
+      "bookedRevenue": 74766.29
+    },
+    {
+      "date": "2025-10-28",
+      "leads": 14,
+      "sits": 11,
+      "sold": 1,
+      "bookedRevenue": 7600.0
+    },
+    {
+      "date": "2025-10-29",
+      "leads": 11,
+      "sits": 15,
+      "sold": 1,
+      "bookedRevenue": 5000.0
+    },
+    {
+      "date": "2025-10-30",
+      "leads": 15,
+      "sits": 14,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-10-31",
+      "leads": 18,
+      "sits": 12,
+      "sold": 2,
+      "bookedRevenue": 1200.0
+    },
+    {
+      "date": "2025-11-01",
+      "leads": 1,
+      "sits": 1,
+      "sold": 83,
+      "bookedRevenue": 1013564.53
+    },
+    {
+      "date": "2025-11-02",
+      "leads": 1,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-11-03",
+      "leads": 9,
+      "sits": 19,
+      "sold": 26,
+      "bookedRevenue": 369859.52
+    },
+    {
+      "date": "2025-11-04",
+      "leads": 22,
+      "sits": 11,
+      "sold": 9,
+      "bookedRevenue": 197794.42
+    },
+    {
+      "date": "2025-11-05",
+      "leads": 16,
+      "sits": 19,
+      "sold": 20,
+      "bookedRevenue": 185195.45
+    },
+    {
+      "date": "2025-11-06",
+      "leads": 11,
+      "sits": 18,
+      "sold": 13,
+      "bookedRevenue": 209060.0
+    },
+    {
+      "date": "2025-11-07",
+      "leads": 8,
+      "sits": 18,
+      "sold": 14,
+      "bookedRevenue": 157320.73
+    },
+    {
+      "date": "2025-11-08",
+      "leads": 3,
+      "sits": 2,
+      "sold": 1,
+      "bookedRevenue": 825.0
+    },
+    {
+      "date": "2025-11-10",
+      "leads": 10,
+      "sits": 12,
+      "sold": 13,
+      "bookedRevenue": 191374.54
+    },
+    {
+      "date": "2025-11-11",
+      "leads": 10,
+      "sits": 9,
+      "sold": 13,
+      "bookedRevenue": 234607.37
+    },
+    {
+      "date": "2025-11-12",
+      "leads": 9,
+      "sits": 13,
+      "sold": 18,
+      "bookedRevenue": 406647.87
+    },
+    {
+      "date": "2025-11-13",
+      "leads": 8,
+      "sits": 14,
+      "sold": 13,
+      "bookedRevenue": 141855.96
+    },
+    {
+      "date": "2025-11-14",
+      "leads": 3,
+      "sits": 7,
+      "sold": 8,
+      "bookedRevenue": 67456.65
+    },
+    {
+      "date": "2025-11-15",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-11-17",
+      "leads": 11,
+      "sits": 13,
+      "sold": 19,
+      "bookedRevenue": 320544.23
+    },
+    {
+      "date": "2025-11-18",
+      "leads": 10,
+      "sits": 3,
+      "sold": 7,
+      "bookedRevenue": 116680.33
+    },
+    {
+      "date": "2025-11-19",
+      "leads": 8,
+      "sits": 6,
+      "sold": 11,
+      "bookedRevenue": 99716.8
+    },
+    {
+      "date": "2025-11-20",
+      "leads": 13,
+      "sits": 15,
+      "sold": 19,
+      "bookedRevenue": 217334.39
+    },
+    {
+      "date": "2025-11-21",
+      "leads": 5,
+      "sits": 8,
+      "sold": 12,
+      "bookedRevenue": 213088.01
+    },
+    {
+      "date": "2025-11-22",
+      "leads": 0,
+      "sits": 1,
+      "sold": 1,
+      "bookedRevenue": 3978.88
+    },
+    {
+      "date": "2025-11-23",
+      "leads": 3,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-11-24",
+      "leads": 2,
+      "sits": 5,
+      "sold": 7,
+      "bookedRevenue": 91728.74
+    },
+    {
+      "date": "2025-11-25",
+      "leads": 3,
+      "sits": 10,
+      "sold": 6,
+      "bookedRevenue": 74870.79
+    },
+    {
+      "date": "2025-11-26",
+      "leads": 2,
+      "sits": 4,
+      "sold": 10,
+      "bookedRevenue": 93848.72
+    },
+    {
+      "date": "2025-11-27",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-11-28",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-11-29",
+      "leads": 0,
+      "sits": 0,
+      "sold": 2,
+      "bookedRevenue": 37843.0
+    },
+    {
+      "date": "2025-12-01",
+      "leads": 13,
+      "sits": 12,
+      "sold": 19,
+      "bookedRevenue": 440471.88
+    },
+    {
+      "date": "2025-12-02",
+      "leads": 0,
+      "sits": 2,
+      "sold": 1,
+      "bookedRevenue": 26000.0
+    },
+    {
+      "date": "2025-12-03",
+      "leads": 3,
+      "sits": 7,
+      "sold": 4,
+      "bookedRevenue": 56406.86
+    },
+    {
+      "date": "2025-12-04",
+      "leads": 2,
+      "sits": 4,
+      "sold": 3,
+      "bookedRevenue": 25848.0
+    },
+    {
+      "date": "2025-12-05",
+      "leads": 3,
+      "sits": 7,
+      "sold": 7,
+      "bookedRevenue": 79072.14
+    },
+    {
+      "date": "2025-12-06",
+      "leads": 1,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-12-07",
+      "leads": 2,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-12-08",
+      "leads": 8,
+      "sits": 1,
+      "sold": 9,
+      "bookedRevenue": 146706.34
+    },
+    {
+      "date": "2025-12-09",
+      "leads": 3,
+      "sits": 2,
+      "sold": 1,
+      "bookedRevenue": 4910.0
+    },
+    {
+      "date": "2025-12-10",
+      "leads": 0,
+      "sits": 5,
+      "sold": 2,
+      "bookedRevenue": 5557.68
+    },
+    {
+      "date": "2025-12-11",
+      "leads": 5,
+      "sits": 5,
+      "sold": 8,
+      "bookedRevenue": 200963.93
+    },
+    {
+      "date": "2025-12-12",
+      "leads": 7,
+      "sits": 4,
+      "sold": 11,
+      "bookedRevenue": 306487.63
+    },
+    {
+      "date": "2025-12-13",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-12-14",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-12-15",
+      "leads": 2,
+      "sits": 5,
+      "sold": 5,
+      "bookedRevenue": 39565.9
+    },
+    {
+      "date": "2025-12-16",
+      "leads": 1,
+      "sits": 3,
+      "sold": 1,
+      "bookedRevenue": 27000.0
+    },
+    {
+      "date": "2025-12-17",
+      "leads": 4,
+      "sits": 7,
+      "sold": 9,
+      "bookedRevenue": 126288.96
+    },
+    {
+      "date": "2025-12-18",
+      "leads": 4,
+      "sits": 5,
+      "sold": 9,
+      "bookedRevenue": 102305.17
+    },
+    {
+      "date": "2025-12-19",
+      "leads": 2,
+      "sits": 0,
+      "sold": 1,
+      "bookedRevenue": 5120.0
+    },
+    {
+      "date": "2025-12-20",
+      "leads": 1,
+      "sits": 1,
+      "sold": 2,
+      "bookedRevenue": 63000.0
+    },
+    {
+      "date": "2025-12-22",
+      "leads": 2,
+      "sits": 4,
+      "sold": 4,
+      "bookedRevenue": 67682.13
+    },
+    {
+      "date": "2025-12-23",
+      "leads": 3,
+      "sits": 2,
+      "sold": 13,
+      "bookedRevenue": 195846.16
+    },
+    {
+      "date": "2025-12-24",
+      "leads": 1,
+      "sits": 1,
+      "sold": 1,
+      "bookedRevenue": 5240.0
+    },
+    {
+      "date": "2025-12-26",
+      "leads": 1,
+      "sits": 3,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-12-27",
+      "leads": 0,
+      "sits": 0,
+      "sold": 4,
+      "bookedRevenue": 41278.34
+    },
+    {
+      "date": "2025-12-28",
+      "leads": 1,
+      "sits": 0,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2025-12-29",
+      "leads": 7,
+      "sits": 3,
+      "sold": 10,
+      "bookedRevenue": 135352.29
+    },
+    {
+      "date": "2025-12-30",
+      "leads": 2,
+      "sits": 4,
+      "sold": 5,
+      "bookedRevenue": 19406.63
+    },
+    {
+      "date": "2025-12-31",
+      "leads": 2,
+      "sits": 2,
+      "sold": 4,
+      "bookedRevenue": 40449.7
+    },
+    {
+      "date": "2026-01-14",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2026-01-15",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2026-01-16",
+      "leads": 1,
+      "sits": 2,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2026-01-22",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2026-02-01",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2026-05-01",
+      "leads": 0,
+      "sits": 3,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2026-06-01",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2026-07-01",
+      "leads": 0,
+      "sits": 5,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2026-08-01",
+      "leads": 0,
+      "sits": 1,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2026-09-01",
+      "leads": 0,
+      "sits": 2,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    },
+    {
+      "date": "2026-12-01",
+      "leads": 0,
+      "sits": 2,
+      "sold": 0,
+      "bookedRevenue": 0.0
+    }
+  ]
+}
